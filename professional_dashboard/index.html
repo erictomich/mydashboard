@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Professional Dashboard</title>
+    <meta name="author" content="name" />
+    <meta name="description" content="description here" />
+    <meta name="keywords" content="keywords,here" />
+    <link rel="stylesheet" href="https://unpkg.com/tailwindcss@2.2.19/dist/tailwind.min.css"/>
+    <style>
+        .hide {
+            display: none !important;
+        }
+    </style>
+    <!--Replace with your tailwind.css once created-->
+  </head>
+
+  
+<body class="bg-gray-100 font-sans leading-normal tracking-normal">
+
+	<nav id="header" class="fixed w-full z-10 top-0">
+
+		<div id="progress" class="h-1 z-20 top-0" style="background:linear-gradient(to right, #4dc0b5 var(--scroll), transparent 0);"></div>
+
+		<div class="w-full md:max-w-4xl mx-auto flex flex-wrap items-center justify-between mt-0 py-3">
+
+			<div class="pl-4">
+				<a class="text-gray-900 text-base no-underline hover:no-underline font-extrabold text-xl" href="#">
+					MyWeek
+				</a>
+			</div>
+
+			<div class="block lg:hidden pr-4">
+				<button id="nav-toggle" class="flex items-center px-3 py-2 border rounded text-gray-500 border-gray-600 hover:text-gray-900 hover:border-green-500 appearance-none focus:outline-none">
+					<svg class="fill-current h-3 w-3" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">
+						<title>Menu</title>
+						<path d="M0 3h20v2H0V3zm0 6h20v2H0V9zm0 6h20v2H0v-2z" />
+					</svg>
+				</button>
+			</div>
+
+			<div class="w-full flex-grow lg:flex lg:items-center lg:w-auto hidden lg:block mt-2 lg:mt-0 bg-gray-100 md:bg-transparent z-20" id="nav-content">
+				<ul class="list-reset lg:flex justify-end flex-1 items-center">
+					<li class="mr-3">
+						<a class="inline-block py-2 px-4 text-gray-900 font-bold no-underline" href="index.html">Dias da Semana</a>
+					</li>
+					<li class="mr-3">
+						<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="eusou.html">Eu Sou</a>
+					</li>
+					<!-- <li class="mr-3">
+						<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="#">link</a>
+					</li> -->
+				</ul>
+			</div>
+		</div>
+	</nav>
+
+	<!--Container-->
+	<div class="container w-full md:max-w-3xl mx-auto pt-20">
+
+		<div class="w-full px-4 md:px-6 text-xl text-gray-800 leading-normal" style="font-family:Georgia,serif;">
+
+			<!--Title-->
+			<div class="font-sans">
+				<!-- <p class="text-base md:text-sm text-green-500 font-bold">&lt; <a href="#" class="text-base md:text-sm text-green-500 font-bold no-underline hover:underline">BACK TO BLOG</a></p> -->
+						<h1 class="font-bold font-sans break-normal text-gray-900 pt-6 pb-2 text-3xl md:text-4xl" id="title"></h1>
+						<h2 class="font-bold font-sans break-normal text-gray-900 pt-6 pb-2 text-2xl md:text-2xl" id="actualDay"></h1>
+			</div>
+
+
+
+			<!--Post Content-->
+
+            <div class="py-6 pt-BR">
+                <p class="py-6"><strong>Invocação Preparatória</strong></p>
+                <p>
+                    Eu estou rodeado pelo Ser puro e imerso no Espírito Santo de vida, amor e sabedoria.<br><br>
+                    Eu conheço a Tua Presença e Poder, ó abençoado Espírito. A Tua Divina Sabedoria aumenta sempre a minha fé na Vida e a Tua pura substância de Amor penetra em minha mente, de acordo com a Tua Perfeita Lei.
+                </p>
+            </div>
+            <div class="py-6 en-US hide">
+                <p><strong>Preparatory Invocation</strong></p>
+                <p>
+                    Eu estou rodeado pelo Ser puro e imerso no Espírito Santo de vida, amor e sabedoria.<br><br>
+                    Eu conheço a Tua Presença e Poder, ó abençoado Espírito. A Tua Divina Sabedoria aumenta sempre a minha fé na Vida e a Tua pura substância de Amor penetra em minha mente, de acordo com a Tua Perfeita Lei.
+                </p>
+            </div>
+
+            <div class="py-6 pt-BR">
+                <p><strong>Afirmar</strong></p>
+            </div>
+            <div class="py-6 en-US hide">
+                
+                <p><strong>Preparatory Invocation</strong></p>
+            </div>
+
+            <!-- DOMINGO -->
+            <div id="Sunday" class="hide">
+                <!-- Afirmação CECP - Dia da Semana -->
+                <div class="pt-BR py-6">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Estou tranquilo e sei que sou filho de Deus.</blockquote>
+                </div>
+                <div class="en-US py-6 hide">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">I am calm and I know that I am a child of God.</blockquote>
+                </div>
+                <!-- RUDOLF STEINER - Meditações -->
+                <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+                
+			</div>
+
+            
+            <!-- SEGUNDA-FEIRA -->
+            <div id="Monday" class="hide">
+                <!-- Afirmação CECP - Dia da Semana -->
+                <div class="pt-BR py-6">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Deus é Espírito e eu - sua divina imagem - sou Espírito. 
+                        Eu sou nascido de Deus. Deus é o puro dos puros, e eu, sendo feito à sua imagem e semelhança, sou um ser puro. 
+                    </blockquote>
+                </div>
+                <div class="en-US py-6 hide">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">God is Spirit and I - his divine image - am Spirit.
+                        I am born of God. God is the pure of the pure, and I, being made in his image and likeness, am a pure being.</blockquote>
+                </div>
+                <!-- RUDOLF STEINER - Meditações -->
+                <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+ 
+			</div>
+
+             <!-- TERÇA-FEIRA -->
+             <div id="Tuesday"  class="hide">
+                <!-- Afirmação CECP - Dia da Semana -->
+                <div class="pt-BR py-6">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">A Vida de Deus é a minha vida e com ele vibro em harmonia e integridade. 
+                        O conhececimento de que tudo é bom me libertou do mal e, portanto, estou perfeitamente são e bom.
+                    </blockquote>
+                </div>
+                <div class="en-US py-6 hide">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">The Life of God is my life and with him I vibrate in harmony and integrity.
+                        The knowledge that all is good has freed me from evil, and therefore I am perfectly sane and good.</blockquote>
+                </div>
+                <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+
+			</div>
+
+            <!-- QUARTA-FEIRA -->
+            <div id="Wednesday"  class="hide">
+                <!-- Afirmação CECP - Dia da Semana -->
+                <div class="pt-BR py-6">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Estou em paz com toda a humanidade; 
+                        eu, real e desinteressadamente, amo a todos os homens e mulheres. Agora conheço a perfeita lei de Justiça e de equidade.
+                        Sei que Deus não faz distinção de pessoa, e que todo homem e toda mulher é meu igual aos olhos do Pai. Amo meu próximo como a mim mesmo, 
+                        e desejo fazer aos outros o que quero que eles façam por mim. 
+                    </blockquote>
+                </div>
+                <div class="en-US py-6 hide">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">....</blockquote>
+                </div>
+                <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+			</div>
+
+             <!-- QUINTA-FEIRA -->
+             <div id="Thursday"  class="hide">
+                <!-- Afirmação CECP - Dia da Semana -->
+                <div class="pt-BR py-6">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Com o conhecimento de que sou Espírito, possuo coragem e ânimo. 
+                        Sou senhor de todas as minhas circunstâncias e sou dirigido pelo Pai que em mim reside. Por herança de Deus, possuo a abastança e a prosperidade e,
+                        pela minha presente afirmação, ponho-as em manifestação.  
+                    </blockquote>
+                </div>
+                <div class="en-US py-6 hide">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">....</blockquote>
+                </div>
+                <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+			</div>
+
+            <!-- SEXTA-FEIRA -->
+            <div id="Friday"  class="hide">
+                <!-- Afirmação CECP - Dia da Semana -->
+                <div class="pt-BR py-6">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Sou sábio, pois expresso a sabedoria da mente infinita e tenho o conhecimento de 
+                        todas as coisas. Seu que sou pura inteligência e, por isso, reivindico o meu direito divino à luz, vida e  liberdade em toda a sabedoria e bondade, amor e pureza.  
+                    </blockquote>
+                </div>
+                <div class="en-US py-6 hide">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">....</blockquote>
+                </div>
+                <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+			</div>
+
+            <!-- SÁBADO -->
+            <div id="Saturday"  class="hide">
+                <!-- Afirmação CECP - Dia da Semana -->
+                <div class="pt-BR py-6">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Sou iluminado nas minhas forças e vou aumentando em saúde, força, vida, amor,
+                        sabedoria, coragem, liberdade, caridade e mansidão, agora e sempre. Estou em harmonia com o Pai, e sou mais forte do que qualquer lei mortal. 
+                        Conheço o meu direito de progenitura do Ser e afirmo destemidamente minha perfeita liberdade. Por este conhecimento, sou paciente, puro, pacífico e feliz. 
+                        Sou digno e determinado, manso e humilde de coração em tudo quanto penso e faço. Estou expresssando plena e vivamente a vida, a sabedoria e o entendimento espiritual. 
+                        Sou uno com o amor, a caridade, a justiça, a benevolência e a generosidade plenamente manifestadas. Sou agora inteiramente uno com a bondade e a misericórdia em manifestação.
+                        A paz emana pela minha mente qual límpido rio, e eu Te agradeço, ó Deus, por ser uno contigo.
+                    </blockquote>
+                </div>
+                <div class="en-US py-6 hide">
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">....</blockquote>
+                </div>
+                <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+			</div>
+
+            <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+            <!-- RUDOLF STEINER - Meditação da semana  -->
+            <p><strong>Meditação da semana - Rudolf Steiner</strong></p>
+            <div id="meditacaoSemanaSteiner">
+
+            </div>
+            <!-- RUDOLF STEINER - Resumo -->
+            <p class="py-3"><strong>Resumo - Meditações Steiner</strong></p>
+            <p class="py-3">De vez em quando, olhar para o próprio interior, nem que seja durante cinco minutos por dia, sempre à mesma hora. Ao fazermos isso, devemos mergulhar em nós mesmos, apreciar-nos cuidadosamente, examinar e formar as normas de nossa existência, percorrer mentalmente nossos conhecimentos – ou o contrário, se for o caso – considerar nossos deveres, refletir sobre o conteúdo e a verdadeira finalidade da vida, sentir um autêntico desagrado em relação às nossas falhas e imperfeições. Numa palavra: cabe-nos descobrir o essencial, o duradouro, e levar a sério as metas correspondentes, por exemplo, a de adquirir determinadas virtudes (não devemos incorrer no erro de pensar que realizamos algo de forma perfeita, mas sim aspirar sempre a algo mais elevado de acordo com os modelos mais altos).</p>
+       
+
+
+
+           
+
+            <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+
+            <div class="py-3 mb-5" id="afirmacaoDiaDoMes"></div>
+    
+            <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+            <div class="py-6 pt-BR">
+                <p class="py-6"><strong id="eusou_afirmacao"></strong></p>
+                <div id="eusou_texto">
+                </div>
+            </div>
+
+            <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+            <div class="py-3 mb-5">
+                <p>
+                    Meditação sobre a simpatia
+                </p>
+                <p>
+                    (...)Represetar-se a simpatia divina a espalhar-se no mundo através do Homem Ideal - o Cristo ou o Mestre - e dirigida para nosso próprio eu. 
+                    <br><br>
+                    Atingido este ponto, é preciso que, por uma forte e real aspiração, o estudante procure penetrar na corrente desta inefável influência que emana do Mestre, e entrar
+                    assim em contato com o objeto de sua devoção. Deverá então pensar na aplicação da simpatia em sua vida cotidiana, em suas relações com os amigos que estima, como também com aqueles com os quais deveria estar em melhores relações. 
+                    Que se represente cada um deles, em particular, envolvido pela influência que dele se expande. 
+                </p>
+            </div>
+    
+            <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+    
+            <p class="py-3">"Conservai os olhos firmes no eterno e vosso intelecto se desenvolverá." (Emerson)</p>
+            <p class="py-3">"O homem se torna naquilo que pensa; por isso, pensai no Eterno."</p>
+            <p class="py-3">"A alegria é o vosso melhor médico. Vivei na alegria e na força."</p>
+            <p class="py-6">"EU SOU, a Ressurreição e a Vida da minha saúde perfeita."</p>
+            <p class="py-3">“Finalmente, irmãos, tudo o que é verdadeiro, tudo o que é respeitável, tudo o que é justo, tudo o que é puro, tudo o que é amável, tudo o que é de boa fama, se alguma virtude há e se algum louvor existe, seja isso o que ocupe o vosso pensamento” (Filipenses 4:8).</p>
+            <p class="py-3">"A Luz do Cristo interno dissolve em mim todo temor, dúvida, ódio e ressentimento. O amor divino circula em mim, formando uma irresistível 
+                corrente magnética. Só vejo a perfeição e atraio o que é meu por lei divina."
+            </p>
+            <p class="py-3">"O homem é uma idéia perfeita na Mente Divina e sem se encontra em seu lugar certo;
+                portanto, meu irmão está em seu lugar certo e é divinamente protegido."
+            </p>
+			<!--/ Post Content-->
+
+            <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+            <p class="py-3">Sentir-se em casa.</p>
+            <p class="py-3">Atenção ao Dan-Tien.</p>
+            <p class="py-3">Silêncio de 15 minutos.</p>
+		</div>
+
+		<!--Tags -->
+		<!-- <div class="text-base md:text-sm text-gray-500 px-4 py-6">
+			Tags: <a href="#" class="text-base md:text-sm text-green-500 no-underline hover:underline">Link</a> . <a href="#" class="text-base md:text-sm text-green-500 no-underline hover:underline">Link</a>
+		</div> -->
+
+		<!--Divider-->
+
+       
+
+	</div>
+	<!--/container-->
+
+	<!-- <footer class="bg-white border-t border-gray-400 shadow">
+		<div class="container max-w-4xl mx-auto flex py-8">
+
+			<div class="w-full mx-auto flex flex-wrap">
+				<div class="flex w-full md:w-1/2 ">
+					<div class="px-8">
+						<h3 class="font-bold text-gray-900">About</h3>
+						<p class="py-4 text-gray-600 text-sm">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vel mi ut felis tempus commodo nec id erat. Suspendisse consectetur dapibus velit ut lacinia.
+						</p>
+					</div>
+				</div>
+
+				<div class="flex w-full md:w-1/2">
+					<div class="px-8">
+						<h3 class="font-bold text-gray-900">Social</h3>
+						<ul class="list-reset items-center text-sm pt-3">
+							<li>
+								<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-1" href="#">Add social link</a>
+							</li>
+							<li>
+								<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-1" href="#">Add social link</a>
+							</li>
+							<li>
+								<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-1" href="#">Add social link</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+
+
+		</div>
+	</footer> -->
+
+    <script src="./db_eusou.js"></script>
+	<script>
+        const afirmacoes = [];
+        afirmacoes[1] = "Eu sou, portanto eu posso."; 
+        afirmacoes[2] = "Eu sou a vida, a saúde e a força encarnadas."; 
+        afirmacoes[3] = "Eu sou a encarnação do amor, da sabedoria e do poder."; 
+        afirmacoes[4] = "Eu sou escravo unicamente da lei do espírito."; 
+        afirmacoes[5] = "Eu sou o criador do meu próprio ambiente."; 
+        afirmacoes[6] = "Eu sou capaz de fazer aquilo que desejo fazer."; 
+        afirmacoes[7] = "Eu sou apoiado pelo conhecimento de tudo quanto é bom."; 
+        afirmacoes[8] = "Eu sou aquele que vive para sempre na vida de Deus."; 
+        afirmacoes[9] = "Eu sou espírito e nada pode prevalescer contra mim."; 
+        afirmacoes[10] = "Eu sou invulnerável, porque o bem me acompanha."; 
+        afirmacoes[11] = "Eu sou o senhor da minha própria vida e das suas condições."; 
+        afirmacoes[12] = "Eu sou uno com a vida infinita; por isso, eu sou infinito"; 
+        afirmacoes[13] = "Eu sou uno com a força eterna e não conheço fraquezas."; 
+        afirmacoes[14] = "Eu sou a verdade e a integridade, o amor e a sabedoria - agora."; 
+        afirmacoes[15] = "Eu sou capaz de manter a minha própria posição, sem ser dirigido pelas circunstâncias."; 
+        afirmacoes[16] = "Eu sou uno com o grande Bem e n'Ele não há fracasso."; 
+        afirmacoes[17] = "Eu sou igual a tudo quanto empreendo, pelo poder de Deus que está em mim."; 
+        afirmacoes[18] = "Eu sou espírito e, como espírito, nada posso temer, nem sofrer dos seres."; 
+        afirmacoes[19] = "Eu sou o senhor de tudo o que está debaixo de mim na escala dos seres."; 
+        afirmacoes[20] = "Eu sou forte para triunfar; nem os obstáculos e nem o medo podem afetar-me."; 
+        afirmacoes[21] = "Eu sou o bem. Eu nada mentalizo para rebaixar-me desta estima de mim mesmo."; 
+        afirmacoes[22] = "Eu sou o senhor da minha própria sorte, o criador do meu próprio destino."; 
+        afirmacoes[23] = "Eu sou feliz; o meu espírito está cheio de belos e salutares pensamentos."; 
+        afirmacoes[24] = "Eu sou o representativo do máximo; por isso, as coisas pequeninas não podem irritar-me."; 
+        afirmacoes[25] = "Eu sou o senhor de mim próprio e do meu caráter; por isso, eu sou calmo, paciente e pacífico."; 
+        afirmacoes[26] = "Eu sou uno com a onipotente vida-força, em toda a sua saúde, bem-estar e conforto."; 
+        afirmacoes[27] = "Eu sou o senhor absoluto em meu próprio domínio, que é o meu ser."; 
+        afirmacoes[28] = "Eu sou uno com a Fonte de todo conhecimento; por isso, eu conheço."; 
+        afirmacoes[29] = "Eu sou uno com a fonte de toda sabedoria; por isso, eu sei."; 
+        afirmacoes[30] = "Eu sou uno com a fonte de toda força; logo, eu sou forte."; 
+        afirmacoes[31] = "Eu sou uno com a fonte de toda bondade; por conseguinte, eu sou bom."; 
+
+        const meditacoesDiasDaSemanaSteiner = [];
+        meditacoesDiasDaSemanaSteiner[5] = `
+                    <p class="py-3">
+                        O anseio de aprender com a vida o mais possível. Nada acontece conosco que não nos dê a oportunidade de colecionarmos experiências úteis para a vida. Se fizemos algo de forma errada ou incompleta, isso será um pretexto para fazermos, mais tarde, algo semelhante, mas de maneira mais correta e perfeita. Vendo outros agirem, devemos observá-los em seu caminho a um objetivo semelhante (embora sempre com um olhar carinhoso).
+                    </p>
+                    <p class="py-3">
+                        Não devemos fazer nada sem antes lançarmos um olhar retrospectivo às nossas próprias vivências, que podem ser de ajuda em nossas decisões e realizações. Se estivermos atentos, podemos aprender muito com qualquer pessoa, inclusive com crianças. 
+                    </p>
+                    <p class="py-3">
+                        Este exercício é também chamado “memória certa”, isto é, lembrar-se do que foi aprendido, lembrar-se das experiências por que passamos.
+                    </p>`;
+        meditacoesDiasDaSemanaSteiner[0] = `
+                    <p class="py-3">
+                        (Domingo)
+                    </p>    
+                    <p class="py-3">
+                        Até mesmo em relação às ações mais insignificantes, só tomar uma decisão com base numa ponderação plena e bem fundamentada. Todo procedimento impensado, toda ação irrelevante devem ser mantidos afastados da alma. Deve-se sempre ter, para tudo, razões bem ponderadas. Deve-se deixar de fazer aquilo que carece de um motivo significativo.
+                    </p>
+                    <p class="py-3">
+                        Se estamos convencidos de que a decisão tomada é correta, devemos nos ater a ela, com toda firmeza de ânimo.
+                    </p>
+                    <p class="py-3">
+                        Este é o assim chamado “juízo certo” que não depende de simpatia nem de antipatia.
+                    </p>`;
+        meditacoesDiasDaSemanaSteiner[1] = `
+                    <p class="py-3">
+                        (Segunda)
+                    </p>    
+                    <p class="py-3">
+                        A fala. Dos lábios de quem aspira a um desenvolvimento superior, só deve manar o que tem significado e importância. Todo falar só para falar – por exemplo para passar o tempo – é, nesse sentido, prejudicial.
+                    </p>
+                    <p class="py-3">
+                        Devemos evitar o tipo comum de conversa, em que se fala de qualquer assunto, numa mistura inconseqüente; por outro lado, não nos devemos excluir da convivência com nosso próximo. É justamente no contato com os outros que a conversa deve evoluir paulatinamente até adquirir um caráter relevante. Que se dê resposta a qualquer interlocutor, mas de forma pensada, em todos os sentidos. Nunca falar sem motivo! Gostar de ficar calado! Que se procure não falar demais nem de menos. Primeiro ouvir com atenção e calma, depois digerir.
+                    </p>
+                    <p class="py-3">
+                        Esse exercício também se chama “a palavra certa”.
+                    </p>`;
+        meditacoesDiasDaSemanaSteiner[6] = `
+                    <p class="py-3">
+                        (Sábado)
+                    </p>            
+                    <p class="py-3">
+                        O homem deve dar toda a atenção a certos processos anímicos que ele geralmente realiza de modo descuidado e desatento.
+                    </p>
+                    <p class="py-3">
+                        Prestar atenção nas próprias representações mentais (pensamentos). Só emitir pensamentos significativos. Aprender a distinguir, paulatinamente, em seus próprios pensamentos, o essencial do acessório, o eterno do efêmero, a verdade da mera opinião.
+                    </p>
+                    <p class="py-3">
+                        Ao escutar o que diz o próximo, procurar ficar totalmente quieto interiormente e renunciar a todo consentimento e, principalmente, a todo julgamento negativo (crítica, rejeição), também em pensamentos e sentimentos. Essa é a assim chamada “opinião certa”.
+                    </p>`;
+
+        const initialDay = new Date('2022-10-17');
+        const today = new Date();
+
+        
+        const dayOfWeekDigit = new Date().getDay();
+        const dayOfMonth = new Date().getDate();
+
+        const dayOfWeekName = new Date().toLocaleString(
+            'en-US', {weekday: 'long'}
+        );
+
+        setTitle(dayOfWeekName);
+
+        setBlockDayOfWeek(dayOfWeekName);
+
+        setAfirmacaoDiaDoMes(dayOfMonth, afirmacoes);
+
+        setActualDay();
+
+        setMeditacaoSemanaSteiner(meditacoesDiasDaSemanaSteiner, dayOfWeekDigit);
+
+        function setMeditacaoSemanaSteiner(meditacoes, dayOfWeekDigit) {
+
+            let actualDay = getActualDay();
+            let calculo = actualDay / 7;
+
+            if(calculo <= 1)
+                exibeMeditacao = meditacoes[6] //sabado
+            else if(calculo <= 2)
+                exibeMeditacao = meditacoes[0] //domingo
+            else if(calculo <= 3)
+                exibeMeditacao = meditacoes[1] //segunda
+            else if(calculo <= 4)
+                exibeMeditacao = meditacoes[2] //terca
+            else if(calculo <= 5)
+                exibeMeditacao = meditacoes[3] //quarta
+            else if(calculo <= 6)
+                exibeMeditacao = meditacoes[4] //quinta
+            else if(calculo <= 7)
+                exibeMeditacao = meditacoes[5] //sexta
+            else {
+                exibeMeditacao = meditacoes[dayOfWeekDigit];
+            }
+
+            document.getElementById("meditacaoSemanaSteiner").innerHTML = exibeMeditacao;
+        }
+
+        function getActualDay() {
+            const diffInMs   = today - initialDay;
+            const diffInDays = diffInMs / (1000 * 60 * 60 * 24);
+            const actualDay = Math.trunc(diffInDays) + 1;
+            
+            return actualDay;
+        }
+
+        function setActualDay() {
+            document.getElementById("actualDay").innerHTML = "Dia "+getActualDay();
+        }
+        function setAfirmacaoDiaDoMes(dayOfMonth, afirmacoes) {
+            document.getElementById("afirmacaoDiaDoMes").innerHTML = `<p><strong>Dia ${dayOfMonth}<br></strong></p> <p>${afirmacoes[dayOfMonth]}</p>`;
+            
+        }
+        function setBlockDayOfWeek(dayOfWeekName) {
+            document.getElementById(dayOfWeekName).classList.remove('hide');
+        }
+
+        function getDataFormatada() {
+            let data = new Date();
+            let dataFormatada = ((data.getDate() )) + "/" + ((data.getMonth() + 1)) + "/" + data.getFullYear(); 
+
+            return dataFormatada;
+        }
+
+        function setTitle(dayOfWeekName) {
+            document.getElementById('title').innerHTML = dayOfWeekName + ' - ' + getDataFormatada();
+        }
+
+		var h = document.documentElement,
+			b = document.body,
+			st = 'scrollTop',
+			sh = 'scrollHeight',
+			progress = document.querySelector('#progress'),
+			scroll;
+		var scrollpos = window.scrollY;
+		var header = document.getElementById("header");
+		var navcontent = document.getElementById("nav-content");
+
+		document.addEventListener('scroll', function() {
+
+			/*Refresh scroll % width*/
+			scroll = (h[st] || b[st]) / ((h[sh] || b[sh]) - h.clientHeight) * 100;
+			progress.style.setProperty('--scroll', scroll + '%');
+
+			/*Apply classes for slide in bar*/
+			scrollpos = window.scrollY;
+
+			if (scrollpos > 10) {
+				header.classList.add("bg-white");
+				header.classList.add("shadow");
+				navcontent.classList.remove("bg-gray-100");
+				navcontent.classList.add("bg-white");
+			} else {
+				header.classList.remove("bg-white");
+				header.classList.remove("shadow");
+				navcontent.classList.remove("bg-white");
+				navcontent.classList.add("bg-gray-100");
+
+			}
+
+		});
+
+
+		//Javascript to toggle the menu
+		document.getElementById('nav-toggle').onclick = function() {
+			document.getElementById("nav-content").classList.toggle("hidden");
+		}
+
+        function dayOfYear() {
+            var now = new Date();
+            var start = new Date(now.getFullYear(), 0, 0);
+            var diff = now - start;
+            var oneDay = 1000 * 60 * 60 * 24;
+            var day = Math.floor(diff / oneDay);
+            return day
+        }
+
+        function getAfirmacaoEuSou(eusou) {
+            document.getElementById("eusou_afirmacao").innerHTML = dayOfYear() + ' - ' +eusou[dayOfYear()].afirmacao;
+            document.getElementById("eusou_texto").innerHTML = eusou[dayOfYear()].texto;
+        }
+
+        getAfirmacaoEuSou(eusou);
+
+       
+
+	</script>
+   
+</body>
+
+</html>
