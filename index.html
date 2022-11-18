@@ -348,8 +348,11 @@
 
 		</div>
 	</footer> -->
-
-    <script src="./db_eusou.js"></script>
+    <script>
+        var DateObj = new Date('October 15, 1996 05:35:32:77');
+        var millisec = DateObj.getMilliseconds();
+    </script>
+    <script src="./db_eusou.js?time="+millisec></script>
 	<script>
 
         function returnAudioDoMes(number) {
