@@ -59,18 +59,25 @@
 
 	<!--Container-->
 	<div class="container w-full md:max-w-3xl mx-auto pt-20">
+
+        
+        
 		<div class="w-full px-4 md:px-6 text-xl text-gray-800 leading-normal" style="font-family:Georgia,serif;">
+
 			<!--Title-->
 			<div class="font-sans">
 				<!-- <p class="text-base md:text-sm text-green-500 font-bold">&lt; <a href="#" class="text-base md:text-sm text-green-500 font-bold no-underline hover:underline">BACK TO BLOG</a></p> -->
 						<h1 class="font-bold font-sans break-normal text-gray-900 pt-6 pb-2 text-3xl md:text-4xl" id="title"></h1>
 						<h2 class="font-bold font-sans break-normal text-gray-900 pt-6 pb-2 text-2xl md:text-2xl" id="actualDay"></h1>
 			</div>
+
             <div class="pt-BR py-6">
                 <p>Objetivo principal definido de carreira:</p>
                 <blockquote class="border-l-4  border-r-4 border-blue-500 italic my-8 pl-8 md:pl-12">Tornar-me um exímio arquiteto de soluções e ferramentas de aprendizagem 
                 </blockquote>
             </div>
+
+  
             <hr class="border-b-2 border-gray-400 mb-8 mx-4">
 
             <!-- DOMINGO -->
@@ -80,7 +87,11 @@
                     <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Domingo</blockquote>
                 </div>
                 <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+                
 			</div>
+
+            
             <!-- SEGUNDA-FEIRA -->
             <div id="Monday" class="hide">
                 <!-- Afirmação CECP - Dia da Semana -->
@@ -90,6 +101,8 @@
                 </div>
                 <!-- RUDOLF STEINER - Meditações -->
                 <hr class="border-b-2 border-gray-400 mb-8 mx-4">
+
+ 
 			</div>
 
              <!-- TERÇA-FEIRA -->
@@ -207,6 +220,8 @@
     <script src="../functions.js"></script>
     <script src="./db_16leis.js"></script>
     <script src="./db_myprojects.js"></script>
+
+
 	<script>
 
         const initialDay = new Date('2022-10-17');
@@ -290,64 +305,10 @@
 
 		});
 
-
 		//Javascript to toggle the menu
 		document.getElementById('nav-toggle').onclick = function() {
 			document.getElementById("nav-content").classList.toggle("hidden");
 		}
-
-        function dayOfYear() {
-            var now = new Date();
-            var start = new Date(now.getFullYear(), 0, 0);
-            var diff = now - start;
-            var oneDay = 1000 * 60 * 60 * 24;
-            var day = Math.floor(diff / oneDay);
-            return day
-        }
-
-        function getAfirmacaoEuSou(eusou) {
-            document.getElementById("eusou_afirmacao").innerHTML = dayOfYear() + ' - ' +eusou[dayOfYear()].afirmacao;
-            document.getElementById("eusou_texto").innerHTML = eusou[dayOfYear()].texto;
-        }
-
-       // getAfirmacaoEuSou(eusou);
-
-        let newItem = getNewItem(leis, '2022-11-01');
-        setLeiSucesso(leis[newItem]); 
-
-        let project = getNewItem(myProjects, '2022-11-04');
-        setMyProjects(myProjects[project]);
-
-        function setLeiSucesso(leiAtual) {
-            let html = '';
-
-            html += `<h2><strong>${leiAtual.title}</strong></h2>`;
-            html += `<p class="py-6">A LEI:<br><br> ${leiAtual.lei}</p>`;
-            html += `<p class="py-6">CHAVES DO SUCESSO:<br><br> ${leiAtual.chaves_do_sucesso}</p>`;
-
-            let showCitacoes = leiAtual.citacoes.length > 0;
-            
-            (showCitacoes ? html += `<div class="py-6">CITAÇÕES:<br><br>`:null);
-
-            leiAtual.citacoes.forEach(function(citacao) {
-                
-                html += `<blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">${citacao}</blockquote>`
-            });
-
-            (showCitacoes ? html += `</div>`:null);
-
-            document.getElementById("leisSucesso").innerHTML = html;
-        }
-
-        function setMyProjects(projectContent) {
-            let html = '';
-            html += `<h2><strong>${projectContent.title}</strong></h2>`;
-            html += `<p class="py-6">Status:<br><br> ${projectContent.status}</p>`;
-          
-            document.getElementById("containerProjects").innerHTML = html;
-            
-        }
-        
 
 	</script>
     

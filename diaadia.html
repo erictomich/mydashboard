@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -44,13 +45,13 @@
 			<div class="w-full flex-grow lg:flex lg:items-center lg:w-auto hidden lg:block mt-2 lg:mt-0 bg-gray-100 md:bg-transparent z-20" id="nav-content">
 				<ul class="list-reset lg:flex justify-end flex-1 items-center">
 					<li class="mr-3">
-						<a class="inline-block py-2 px-4 text-gray-900 font-bold no-underline" href="index.html">Dias da Semana</a>
+						<a class="inline-block py-2 px-4 text-gray-900 no-underline hover:text-underline no-underline" href="index.html">Dias da Semana</a>
 					</li>
 					<li class="mr-3">
 						<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="eusou.html">Eu Sou</a>
 					</li>
 					<li class="mr-3">
-						<a class="inline-block text-gray-600 no-underline hover:text-gray-900 hover:text-underline py-2 px-4" href="diaadia.html">Dia-a-Dia</a>
+						<a class="inline-block text-gray-900  hover:text-gray-900 font-bold  py-2 px-4" href="diaadia.html">Dia-a-Dia</a>
 					</li>
 				</ul>
 			</div>
@@ -72,22 +73,18 @@
 
 
 			<!--Post Content-->
-            <div class="swapLang">
-                <div class="py-6 pt-BR hide">
-                    <p class="py-6"><strong>Invocação Preparatória</strong></p>
-                    <p>
-                        Eu estou rodeado pelo Ser puro e imerso no Espírito Santo de vida, amor e sabedoria.<br><br>
-                        Eu conheço a Tua Presença e Poder, ó abençoado Espírito. A Tua Divina Sabedoria aumenta sempre a minha fé na Vida e a Tua pura substância de Amor penetra em minha mente, de acordo com a Tua Perfeita Lei.
+            <div >
+                <div class="py-6 pt-BR">
+                    <p class="py-6"><strong>Exercícios Físicos</strong></p>
+                    <p><a href="https://www.personare.com.br/conteudo/nauli-kriya-como-fazer-a-tecnica-do-yoga-que-trabalha-o-abdome-m43295" target="_blank">Nauli - Exercício da barriga</a><br>
+                        Tamas Udhyana Bandha: 5 a 10 voltas<br>
+                        Rajas Udhyana Bandha: 5 a 10 voltas<br>  
                     </p>
+                    <p>Kapālabhāti</p>
+                    
+                    <p>Trātaka</p>
                 </div>
-                <div class="py-6 en-US ">
-                    <p class="py-6"><strong>Preparatory Invocation</strong></p>
-                    <p>
-                        I am surrounded by pure Being and immersed in the Holy Spirit of life, love and wisdom.<br><br>
-                        I know Thy Presence and Power, Oh blessed Spirit. Your Divine Wisdom always increases my faith in Life and Your pure substance of Love penetrates my mind, according to Your Perfect Law.
-                    </p>
-                    <audio controls><source src="./audios/instrucoes_semanal/preparatory.mp3" type="audio/mpeg"></audio>
-                </div>
+                
             </div>
 
             <div class="swapLang">
@@ -529,8 +526,7 @@
             let actualDay = getActualDay();
             let calculo = Math.trunc(actualDay / 7);
 
-            console.log('calculo: '+calculo)
-            console.log(meditacoes);
+
             if(calculo <= 1)
                 exibeMeditacao = meditacoes[6] //sabado
             else if(calculo <= 2)
@@ -567,23 +563,13 @@
         function setActualDay() {
             document.getElementById("actualDay").innerHTML = "Dia "+getActualDay();
         }
-        function setAfirmacaoDiaDoMes(dayOfMonth, afirmacoes) {
-            document.getElementById("afirmacaoDiaDoMes").innerHTML = `<p><strong>Dia ${dayOfMonth}<br></strong></p> <div class="swapLang">${afirmacoes[dayOfMonth]}</div>`;
-            
-        }
-        function setBlockDayOfWeek(dayOfWeekName) {
-            document.getElementById(dayOfWeekName).classList.remove('hide');
-        }
+
 
         function getDataFormatada() {
             let data = new Date();
             let dataFormatada = ((data.getDate() )) + "/" + ((data.getMonth() + 1)) + "/" + data.getFullYear(); 
 
             return dataFormatada;
-        }
-
-        function setTitle(dayOfWeekName) {
-            document.getElementById('title').innerHTML = dayOfWeekName + ' - ' + getDataFormatada();
         }
 
 		var h = document.documentElement,
@@ -634,13 +620,6 @@
             var day = Math.floor(diff / oneDay);
             return day
         }
-
-        function getAfirmacaoEuSou(eusou) {
-            document.getElementById("eusou_afirmacao").innerHTML = dayOfYear() + ' - ' +eusou[dayOfYear()].afirmacao;
-            document.getElementById("eusou_texto").innerHTML = eusou[dayOfYear()].texto;
-        }
-
-        getAfirmacaoEuSou(eusou);
 
 
         // swapLang
