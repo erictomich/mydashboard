@@ -486,6 +486,74 @@
                     </p>
             
             `
+        } ;
+        meditacoesDiasDaSemanaSteiner[3] = {
+            "pt-BR": `
+                    <p class="py-3">
+                        (Quarta)
+                    </p>    
+                    <p class="py-3">
+                        A organização da existência. Viver de acordo com a natureza e com o espírito, não se deixar absorver pelas futilidades da vida exterior. Evitar tudo o que traz inquietação e pressa.
+                    </p>
+                    <p class="py-3">
+                        Não precipitar nada, mas tampouco ficar inerte. Considerar a vida como um meio de trabalho, de elevação, e proceder de acordo.
+                    </p>
+                    <p class="py-3">
+                        Isso também é chamado “ponto de vista certo”.
+                    </p>
+            `,
+            "en-US": `
+                    <p class="py-3">
+                        (Wednesday)
+                    </p>    
+                    <p class="py-3">
+                        The ordering of life. To live in accordance with Nature and Spirit. Not to be swamped by the external trivialities of life. To avoid all that brings unrest and haste into life.
+                    </p>
+                    <p class="py-3">
+                        To hurry over nothing, but also not to be indolent. To look on life as a means for working towards higher development and to behave accordingly.
+                    </p>
+                    <p class="py-3">
+                        One speaks in this connection of: RIGHT STANDPOINT.
+                    </p>
+                    <p>
+                        ${returnAudioSemanaSteiner('wednesday')}
+                    </p>
+            
+            `
+        } 
+        meditacoesDiasDaSemanaSteiner[4] = {
+            "pt-BR": `
+                    <p class="py-3">
+                        (Quinta)
+                    </p>    
+                    <p class="py-3">
+                        O anseio humano. Devemos ter o cuidado de não empreender nada que esteja além de nossas forças, mas tampouco deixar de fazer o que está dentro de nossas possibilidades.
+                    </p>
+                    <p class="py-3">
+                        Olhar para além do imediato e do dia-a-dia; fixar para si próprio metas (ideais) relacionados com os deveres mais elevados do homem. Por exemplo: procurar desenvolver-se por meio dos exercícios indicados, a fim de poder depois ajudar e aconselhar o próximo mais intensamente, mesmo que isso não se dê num futuro imediato.
+                    </p>
+                    <p class="py-3">
+                        O que foi dito também pode ser resumido em: “transformar todos os exercícios precedentes em hábitos”. 
+                    </p>
+            `,
+            "en-US": `
+                    <p class="py-3">
+                        (Terça)
+                    </p>    
+                    <p class="py-3">
+                        Take care to do nothing that lies beyond your powers – but also, leave nothing undone which lies within them.
+                    </p>
+                    <p class="py-3">
+                        Look beyond the everyday, the momentary, and to set yourself aims and ideals connected with the highest duties of a human being. For instance, in the sense of the prescribed exercises, to try to develop yourself so that afterwards you may be able all the more to help and advise one’s fellow-men – though perhaps not in the immediate future.
+                    </p>
+                    <p class="py-3">
+                        This can be summed up as: LET ALL THE FOREGOING EXERCISES BECOME A HABIT.
+                    </p>
+                    <p>
+                        ${returnAudioSemanaSteiner('thursday')}
+                    </p>
+            
+            `
         } 
         
         
@@ -553,6 +621,8 @@
             }
 
             let divMeditacoes = document.getElementById("meditacaoSemanaSteiner");
+
+            console.log(exibeMeditacao);
             divMeditacoes.querySelector('.pt-BR').innerHTML = exibeMeditacao['pt-BR'];
             divMeditacoes.querySelector('.en-US').innerHTML = exibeMeditacao['en-US'];
 
