@@ -7,15 +7,21 @@ function getDiffInDays(dataInicio) {
     return Math.trunc(diffInDays);
 
 }
-function getNewItem(conjunto, dataInicio, usarPrazoExtendidoInicio = true, tamanhoInicial = 7) {
+function getNewItem(conjunto, dataInicio, usarPrazoExtendidoInicio = true, tamanhoInicial = 2) {
     let arrayLength = conjunto.length; 
     let diffInDays = getDiffInDays(dataInicio);
+
+
 
     if(usarPrazoExtendidoInicio) {
         console.log("diffInDays: "+ (diffInDays-1))
         let positionPrazoExtendido = Math.trunc((diffInDays-1) / tamanhoInicial);
 
+        console.log("tamanhoinicial: "+ tamanhoInicial)
+        console.log("positionPrazoExtendido: "+ positionPrazoExtendido)
+
         if(positionPrazoExtendido<arrayLength) {
+            console.log(positionPrazoExtendido, ' - ', arrayLength)
             return positionPrazoExtendido;
         } else {
             diffInDays = diffInDays - (tamanhoInicial*arrayLength) -1;

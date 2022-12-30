@@ -94,10 +94,29 @@
 
              <!-- TERÇA-FEIRA -->
              <div id="Tuesday"  class="hide">
-                <!-- Afirmação CECP - Dia da Semana -->
+                
                 <div class="pt-BR py-6">
                     <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Terça
                     </blockquote>
+                    <h2 class="font-bold text-2xl">PHP</h2>
+                    <p></p>
+                    <p><a href="https://www.w3schools.com/php/php_operators.asp" class="underline text-blue-700 hover:text-red-700" target="_blank">Operators</a></p>
+                    <br>
+                    <p class="font-bold">Functions</p>
+                    <p><a href="https://www.php.net/manual/en/function.preg-replace.php" class="text-blue-700 hover:text-red-700" target="_blank">preg_replace</a></p>
+                    <p>preg_match</p>
+                    <p>str_replace</p>
+
+                    <br>
+                    <h2 class="font-bold text-2xl">CSS</h2>
+                    <p></p>
+                    <br>
+
+                    <p class="font-bold">Tailwind (fonts)</p>
+                    <p>font-bold</p>
+                    <p>text-2xl</p>
+                    <p>text-blue-500</p>
+                    <p></p>
                 </div>
                 <hr class="border-b-2 border-gray-400 mb-8 mx-4">
 
@@ -108,7 +127,9 @@
             <div id="Wednesday"  class="hide">
                 <!-- Afirmação CECP - Dia da Semana -->
                 <div class="pt-BR py-6">
-                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Quarta
+                    <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Pensa-se que o homem deixa de ser pobre quando obtém dinheiro.
+                        Mas aquele se sente rico somente quando tem dinheiro tem a alma pobre. É preciso compreender que a vida do homem é originalmente rica, mesmo
+                        sem acréscimo de dinheiro e outros bens materiais. <br> <cite>( Masaharu Taniguchi )</cite>
                     </blockquote>
                 </div>
                 <hr class="border-b-2 border-gray-400 mb-8 mx-4">
@@ -120,6 +141,23 @@
                 <div class="pt-BR py-6">
                     <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Quinta
                     </blockquote>
+                    <h2 class="font-bold text-2xl">PHP</h2>
+                    <p></p>
+                   
+                    <br>
+                    <p class="font-bold">Testes</p>
+                    <p><a href="https://phpunit.de/" class="underline text-blue-700 hover:text-red-700" target="_blank">PHP Unit</a></p>
+
+                    <br>
+                    <h2 class="font-bold text-2xl">GIT</h2>
+                    <p></p>
+                    <br>
+
+                    <p class="font-bold">Tailwind (fonts)</p>
+                    <p>font-bold</p>
+                    <p>text-2xl</p>
+                    <p>text-blue-500</p>
+                    <p></p>
                 </div>
                 <hr class="border-b-2 border-gray-400 mb-8 mx-4">
 			</div>
@@ -130,6 +168,13 @@
                 <div class="pt-BR py-6">
                     <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Sexta
                     </blockquote>
+
+                    <h2 class="font-bold text-2xl">HTML</h2>
+                    <p></p>
+                   
+                    <p>https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/datetime-local</p>
+                   
+                  
                 </div>
                 <hr class="border-b-2 border-gray-400 mb-8 mx-4">
 			</div>
@@ -140,12 +185,14 @@
                 <div class="pt-BR py-6">
                     <blockquote class="border-l-4 border-green-500 italic my-8 pl-8 md:pl-12">Sábado
                     </blockquote>
+
+
                 </div>
              
 			</div>
 
 
-            <!-- AS 16 Leis do Sucesso  -->
+            
             <div class="py-3 mb-5" id="leisSucesso"></div>
     
             <hr class="border-b-2 border-gray-400 mb-8 mx-4">
@@ -203,10 +250,14 @@
 		</div>
 	</footer> -->
 
-
-    <script src="../functions.js"></script>
-    <script src="./db_16leis.js"></script>
-    <script src="./db_myprojects.js"></script>
+    <script>
+        var DateObj = new Date('October 15, 1996 05:35:32:77');
+        var millisec = DateObj.getMilliseconds();
+    </script>
+    <script src="../functions.js?time="+millisec></script>
+    <script src="./db_16leis.js?time="+millisec></script>
+    <script src="./db_myprojects.js?time="+millisec></script>
+    
 	<script>
 
         const initialDay = new Date('2022-10-17');
@@ -315,7 +366,8 @@
         let newItem = getNewItem(leis, '2022-11-01');
         setLeiSucesso(leis[newItem]); 
 
-        let project = getNewItem(myProjects, '2022-11-04');
+        let project = getNewItem(myProjects, '2022-11-02', false);
+        console.log('projeto: ',project);
         setMyProjects(myProjects[project]);
 
         function setLeiSucesso(leiAtual) {

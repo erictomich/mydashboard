@@ -26,12 +26,28 @@ myProjects[1] = {
 
 myProjects[2] = {
     "title": "Cronometros Jin Shin Jyutsu",
-    "status": ""
+    "status": `Alguns protótipos em html e javascript`,
+    "descricao": ``
 }
 
 myProjects[2] = {
     "title": "Kumon texts",
-    "status": ""
+    "status": `Transcrever todos os textos do kumon. Para que se possa mensurar a quantidade de palavras em cada história. 
+    Quantos termos novos existem.`,
+    "descricao": `Transcrever todos os textos do kumon. Para que se possa mensurar a quantidade de palavras em cada história. 
+    Quantos termos novos existem.`
+}
+
+myProjects[3] = {
+    "title": "Keeped IN",
+    "status": `Protótipo em HTML`,
+    "descricao": `Sistema para salvar favoritos do Linkedin e fazer listas específicas.`
+}
+
+myProjects[4] = {
+    "title": "GrowthCycle",
+    "status": `Protótipo em HTML`,
+    "descricao": `Desenvolvimento cíclico da vida.`
 }
 
 
