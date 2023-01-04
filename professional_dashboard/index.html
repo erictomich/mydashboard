@@ -395,6 +395,10 @@
             let html = '';
             html += `<h2><strong>${projectContent.title}</strong></h2>`;
             html += `<p class="py-6">Status:<br><br> ${projectContent.status}</p>`;
+            html += `<hr>`;
+            html += `<p class="py-6">Description:<br><br> ${projectContent.descricao}</p>`;
+            html += `<hr>`;
+            html += `<p class="py-6">Brainstorming:<br><br> ${projectContent.brainstorming}</p>`;
           
             document.getElementById("containerProjects").innerHTML = html;
             
