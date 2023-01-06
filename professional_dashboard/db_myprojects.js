@@ -12,11 +12,18 @@ myProjects[0] = {
                 <br><br>
                 Próximo passo: 
                 <br> Fazer aparecer as palavras que não conheço. Componente: WordsInProgressByText
+                <br>
+                
+                api/words/list
+                <br>=> fazer listar as palavras que desconheço dentro do array
+                <br>=> Criar api para listar somente palavras que desconheço em um texto específico, pegando o parâmetro dele. 
+                
                 <br><br>
                 Tecnologias: 
                 <br>Next.js
                 `,
-    "description": ""
+    "descricao": "",
+    "brainstorming": ""
 }
 
 myProjects[1] = {
