@@ -27,8 +27,27 @@ myProjects[0] = {
 }
 
 myProjects[1] = {
-    "title": "Dashboards",
-    "status": "Em desenvolvimento de protótipos"
+    "title": "On Dashboard",
+    "status": "Desenvolvimento do protótipo",
+    "descricao": `Esse é um sistema de criar dashboards gerais, para controlar diferentes aspectos da vida. 
+                  <br>Cada dashboard criado pode conter diversos componentes que irão guardar diferentes tipos de informação. 
+                  <br>Exemplo: 
+                  <br>- Componente para exibir um conteúdo para cada dia da semana
+                  <br>- Componente para exibir um conteúdo para cada dia da mês
+                  <br>- Componente para exibir um conteúdo para cada dia do ano
+                  <br>- Componente para exibir um conteúdo em intervalos espaçados, independente da quantidade de informação que contenha 
+                  <br>- Componente para treinar com repetição espaçada
+
+                  <br><br>O projeto por enquanto está na pasta de estudos: 
+                  <br>/Estudo/learnprojects/nodejs/proj001_autenticacao_basica_passport
+
+                  <br>é preciso criar uma pasta própria pra ele
+
+                  <br><br> O projeto está usando: 
+                  <br> NodeJS, Express, Sequelize (models, migration, seeders), SQLite, Engine ejs, autenticação
+
+                 `,
+    "brainstorming": ""
 }
 
 myProjects[2] = {
