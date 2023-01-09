@@ -99,68 +99,115 @@ EU SOU A CHAMA DO PERDÃO QUE CONSOME TODO ERRO.
 
 eusou[8] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU DEUS EM AÇAO NESTE MEU EU OBJETIVO E EM TODO SER.
+`,
+"texto": `Feliz o homem que repete esta afirmação, conscientemente, porque sua mente deixa de discutir e aceitará a verdade. Esse EU-HOMEM está no caminho de dominar o mundo.
+<br><br>Não esqueça nunca que aceitar esta verdade, conscientemente, é convertê-la em realidade: EU SOU DEUS EM AÇÃO.
+`
 }
 
 eusou[9] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU DEUS EM PERFEITA EXPRESSÃO NESTE MEU EU PESSOAL.
+`,
+"texto": `Quando uma imagem construtiva aparece na mente, converte-se em realidade, ao concentrar nela.
+<br><br>Quando o EU-HOMEM começa a sentir e saber que - EU SOU a ação perfeita, que se expressa por ele, então constatará sua irradiação no externo e sentir-se-á uno com ELE. Devemo-nos acalmar e repetir:
+<br><br>EU SOU DEUS EM PERFEITA EXPRESSÃO.
+`
 }
 
 eusou[10] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A RESSURREIÇÃO E A VIDA.
+`,
+"texto": `Quando Jesus proclamou esta verdade, proclamou com ela a divindade do homem.
+<br><br>Mas, quando disse - EU SOU - não se referiu à sua personalidade externa, se não à Presença de Deus Intimo NELE; porque várias vezes repetiu:
+<br><br>"Eu por mim nada posso fazer, é o Pai que está em mim - o EU SOU quem realiza as obras."
+<br><br>EU SOU A RESSURREIÇAO E A VIDA.
+`
 }
 
 eusou[11] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O CAMINHO, A VERDADE E A VIDA.
+`,
+"texto": `Jesus, sempre sentindo e vivendo esta verdade de que: EU SOU DEUS EM AÇÃO, que EU E O PAI SOMOS UM, começava cada afirmação de importância transcendental com as palavras - EU SOU - Quando o Eu concentra e sente esta verdade, principia a chegar à "estatura do Cristo", como diz S. Paulo e repete conscientemente com Jesus: EU SOU O CAMINHO, A VERDADE E A VIDA.`
 }
 
 eusou[12] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A LUZ QUE ILUMINA A CADA HOMEM QUE VEM AO MUNDO.
+`,
+"texto": `Quando se vive esta verdade, o homem se converte, para seus semelhantes, em uma Luz que ilumina as trevas de sua inteligência e do intelecto. Seu amor rasgará o véu da ignorância e - EU SOU iluminará o coração e a mente de cada ser. Devemos repetir com Jesus: EU SOU A LUZ QUE ILUMINA A CADA HOMEM QUE VEM AO MUNDO.`
 }
 
 eusou[13] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O PODER EXPRESSADO EM AMOR, SABEDORIA E VERDADE.
+`,
+"texto": `Devemos viver esta afirmação e cada passo dado corresponde à liberação e cada afirmação encaminha-nos à regeneração.
+<br><br>(NOTA) - De agora em diante o aspirante já pode e deve dirigir suas afirmações pelo bem dos demais homens.
+<br><br>Exemplo: Pensar em um ser necessitado e desorientado, e repetir: EU SOU O PODER DIVINO EXPRESSANDO-SE DO INTERNO EM AMOR, SABEDORIA E
+<br><br>VERDADE NESTE SER. O resultado será maravilhoso naquele e para aquele homem. Assim o aspirante se converte em salvador da Humanidade, e quem dá recebe com acréscimo, embora o Salvador pense sempre em dar e não em receber.
+`
 }
 
 eusou[14] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A PORTA ABERTA QUE NENHUM HOMEM PODE FECHAR.
+`,
+"texto": `Quem quer ter a chave do mistério e o poder da transmutação deve repetir esta afirmação. Nenhum homem pode fechar a porta do EU SOU; porém, a fecham: a discussão, o orgulho, a arrogância, o muito falar e vangloriar-se de seu poder e saber. Estes ensinamentos foram provados através de todos os séculos que EU SOU A PRESENÇA ATIVA DE DEUS EM TODO EU QUE ACEITA E VIVE ESTA VERDADE.
+<br>Repitamos com Jesus:
+<br>EU SOU A PORTA ABERTA QUE NENHUM HOMEM PODE FECHAR.
+`
 }
 
 eusou[15] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU DEUS EM AÇÃO NESTE MEU CORPO E ATRAVÉS DE MINHA MENTE.
+`,
+"texto": `Assim se pode compreender que cada movimento que se faz é DEUS EM AÇAO, e cada pensamento na mente é a ENERGIA DE DEUS que capacita para pensar. Este é um fato sem discussão: mas o homem ou o Eu pode pensar mal e agir incorretamente; por isto, deve afastar-se da expressão falsa e externa para afirmar-se na interna, que emana da Poderosa Presença de Deus e dizer: EU SOU DEUS EM AÇÃO NO CORPO E ATRAVÉS DA MENTE.`
 }
 
 eusou[16] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A INTELIGÊNCIA QUE GUIA A CADA SER.
+`,
+"texto": `Devemos repetir esta convicção antes de empreender qualquer trabalho e antes de sair para nossos afazeres.
+<br>Em cada movimento que o homem empreende, deve aprender e sentir que é DEUS,EM AÇÃO e não como supõe que sua mente carnal ou intelecto é o verdadeiro autor e criador.
+<br>Devemo-nos voltar à própria Divindade e repetir sempre:
+<br>EU SOU A INTELIGÊNCIA QUE GUIA MEUS ATOS E MEUS PASSOS.
+`
 }
 
 eusou[17] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR È LOGO:<br>
+EU SOU A LUZ DO MUNDO E QUEM ME SEGUE NÃO ANDA NAS TREVAS. NINGUÉM VAI AO PAI A NÃO SER POR MIM.
+`,
+"texto": `O Cristo é a primeira expressão do Pai. É o Verbo que se fez carne. É a Luz do mundo, que está dentro e fora do homem.
+<br>Em Jesus falou e se expressou o Cristo em toda a sua beleza e grandiosidade, para mostrar à humanidade e para demonstrá-la que o caminho para o Pai é o Amor, a
+ Doçura, o Poder, o Querer, o Saber. Jesus foi o ser sublime em que habitou e falou o Cristo com a maior e a mais elevada expressão. (O Poder do Amor, o Querer do Amor) EU SOU A LUZ DO MUNDO, assim falou o Cristo em Jesus. Sigamos as pegadas de Jesus, sigamos os seus ensinamentos, e em nós falará e,se expressará o Cristo para nos guiar à superação, ao amor, ao serviço em benefício da Humanidade e felicidade de todos.
+`
 }
 
 eusou[18] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O BEM-ESTAR EM CONTINUA EXPRESSÃO.
+`,
+"texto": `Esta afirmação não tardará em vir à expressão sempre que se mantenha com consciência determinada e trará ao indivíduo o que ele pode realizar e usar.
+<br>Devemos pedir com firmeza, sem dúvida, sem vacilação, sem temor e, sobretudo, devemos pedir pelos demais: EU SOU O BEM-ESTAR EM CONTINUA EXPRESSÃO.
+`
 }
 
 eusou[19] =

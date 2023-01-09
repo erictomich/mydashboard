@@ -58,7 +58,7 @@ myProjects[2] = {
 }
 
 myProjects[2] = {
-    "title": "Vocab Count",
+    "title": "Vocab Check",
     "status": `em construção do protótipo`,
     "descricao": `
 
@@ -68,8 +68,10 @@ myProjects[2] = {
 
     <br><br>
     O projeto vocab count foi criado na pasta: 
-    <br>C:\\Users\\ericjanuzzi\\Estudo\\sideprojects\\vocab-count
+    <br>C:\\Users\\ericjanuzzi\\Estudo\\sideprojects\\vocab-check
     <br>na rota "generate-texts", no arquivo "app.js", estão as anotações para os próximos passos.
+    <br>no git hub: 
+    <br>https://github.com/erictomich/vocab-check
 
     <br><br>O projeto do kumon está em: <br>
     C:\\Users\\ericjanuzzi\\Estudo\\sideprojects\\english-kumon-vocabulary
