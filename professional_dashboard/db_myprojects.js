@@ -82,15 +82,17 @@ myProjects[2] = {
 myProjects[3] = {
     "title": "Keeped IN",
     "status": `Protótipo em HTML`,
-    "descricao": `Sistema para salvar favoritos do Linkedin e fazer listas específicas.`,
-    "brainstorming": `Pensando em criar esse sistema com Next.js. <br>
-                    
-                    Usando SQLite para o protótipo, Sequelize como ORM. 
-                    
-                    <br>
-                    https://plainenglish.io/blog/next-js-with-sequelize-web-application-a-full-stack-web-development-a0051074e998
-                    <br>
-                    ` 
+    "descricao": `Sistema para salvar favoritos do Linkedin (ou outras redes) e fazer listas específicas.`,
+    "tecnologias": `PHP | Laravel`,
+    "local": "C:\\Users\\ericjanuzzi\\Estudo\\sideprojects\\bookmarks",
+    "brainstorming": `
+    Próximo passo: fazer salvar as tags
+    <br>-----
+        - Possibilidade de salvar posts de diversas redes
+        <br>- Possibilidade de escrever um post na própria rede 
+        <br>- Possibilidade de curtir posts na própria rede
+        <br>- A pessoa pode aproveitar o post de outra e salvar em próprias listas, sem necessariamente acessar aquela rede
+` 
 }
 
 myProjects[4] = {
