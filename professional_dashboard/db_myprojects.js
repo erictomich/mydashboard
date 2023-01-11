@@ -27,7 +27,7 @@ myProjects[0] = {
 }
 
 myProjects[1] = {
-    "title": "On Dashboard",
+    "title": "On Dashboard - GrowthCycle",
     "status": "Desenvolvimento do protótipo",
     "descricao": `Esse é um sistema de criar dashboards gerais, para controlar diferentes aspectos da vida. 
                   <br>Cada dashboard criado pode conter diversos componentes que irão guardar diferentes tipos de informação. 
@@ -83,7 +83,7 @@ myProjects[3] = {
     "title": "Keeped IN",
     "status": `Protótipo em HTML`,
     "descricao": `Sistema para salvar favoritos do Linkedin (ou outras redes) e fazer listas específicas.`,
-    "tecnologias": `PHP | Laravel`,
+    "tecnologias": `PHP | Laravel | MySQL | Tailwind `,
     "local": "C:\\Users\\ericjanuzzi\\Estudo\\sideprojects\\bookmarks",
     "brainstorming": `
     Próximo passo: fazer salvar as tags
@@ -95,15 +95,13 @@ myProjects[3] = {
 ` 
 }
 
-myProjects[4] = {
-    "title": "GrowthCycle",
-    "status": `Protótipo em HTML`,
-    "descricao": `Desenvolvimento cíclico da vida.`
-}
 
-myProjects[5] = {
-    "title": "CodeKataBR - Dev Poliglota",
+
+myProjects[4] = {
+    "title": "CodeKataBR - Dev Poliglota - Repetição espaçada",
     "status": `Ideação`,
-    "descricao": `Irá conter inúmeros exercícios para fazer, para treinar linguagens de programação.`
+    "descricao": `Irei utilizar repetição espaçada. 
+    <br>Irá conter inúmeros exercícios para fazer, para treinar linguagens de programação.
+    <br>Usar Laravel e postgreSQL`
 }
 
