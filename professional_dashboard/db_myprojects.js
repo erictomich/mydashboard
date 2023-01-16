@@ -102,6 +102,15 @@ myProjects[4] = {
     "status": `Ideação`,
     "descricao": `Irei utilizar repetição espaçada. 
     <br>Irá conter inúmeros exercícios para fazer, para treinar linguagens de programação.
-    <br>Usar Laravel e postgreSQL`
+    <br>Usar Laravel e postgreSQL
+    <br><br>
+    Usar os programas de linha de comando que servem para gravar os comandos da linguagem. 
+    `
+}
+
+myProjects[5] = {
+    "title": "MyDiary",
+    "status": `Ideação`,
+    "descricao": `Diário traduzido.`
 }
 

@@ -153,7 +153,7 @@ leis[10] = {
 
 leis[11] = {
     "title": "12 - Concentração",
-    "lei": `Para criar a realidade que você deseka, não é suficiente apenas pensar nela. VOcê precisa desejá-la tão obstinadamente que não consiga pensar em outra coisa. 
+    "lei": `Para criar a realidade que você deseja, não é suficiente apenas pensar nela. VOcê precisa desejá-la tão obstinadamente que não consiga pensar em outra coisa. 
     A atenção do seu pensamento cria concentração e a concentração desenvolve poder espiritual, que por sua vez é a força mais elevada que existe. 
     Por isso, concentre-se com atenção total naquilo que você deseja.`,
     "chaves_do_sucesso": ``,
