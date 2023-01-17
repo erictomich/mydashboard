@@ -105,6 +105,9 @@ myProjects[4] = {
     <br>Usar Laravel e postgreSQL
     <br><br>
     Usar os programas de linha de comando que servem para gravar os comandos da linguagem. 
+    <br>
+    Por enquanto estou usando o python para construir programas em linha de comando, para gerar repetição dos comandos. 
+    está na pasta "codekatabr".
     `
 }
 
