@@ -212,32 +212,55 @@ EU SOU O BEM-ESTAR EM CONTINUA EXPRESSÃO.
 
 eusou[19] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O AMOR E BEM-ESTAR NESTE MEU EU E EM TODO MEU SER.
+`,
+"texto": `Se alguma pessoa se separou do Bem-Estar e inteligência é porque lhe faltou o amor, ao fixar demasiada sua atenção nas aparências externas.<br><br>
+O Bem-Estar é a herança de todos e cada um pode consegui-lo dirigindo-se ao Grande Pai, o Todo Saber e Todo Amor, que nunca quer que falte uma só coisa a nenhum de seus filhos. 
+<br>EU SOU O AMOR E O BEM-ESTAR NESTE MEU EU E EM TODO SER.
+`
 }
 
 eusou[20] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A RESSURREIÇÃO E A VIDA.
+`,
+"texto": `É a melhor afirmação para o domínio. da força vital do sexo. A Força Criadora do Sexo, transmutada com inteligência, ajuda em qualquer caso da vida, em qualquer trabalho, governa o equilíbrio e conduz o homem aos mais altos planos do Amor, do Saber e do Bem-Estar.
+<br><br>Esta afirmação purifica o pensamento e dá as forças mais poderosas e alentadoras para a superação.
+<br><br>Nos momentos do despertar do sexo, devemos dar graças por possuirmos este poder criador e elevar o pensamento ao cérebro de onde desce a Energia Criadora e afirmar: EU SOU A RESSURREIÇÃO E A VIDA.
+`
 }
 
 eusou[21] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A RESSURREIÇÃO E A VIDA NESTE MEU EU E EM Ti.
+`,
+"texto": `Dirigir o pensamento e a afirmação a um determinado ser, fará com que a mente conceba as idéias mais surpreendentes com a habilidade e o poder de realizá-las e usar estes dons para a bênção da Humanidade.
+<Br><Br>Devemos gravar na mente a afirmação de Jesus. Repeti-Ia três vezes sete, e os resultados não tardarão a manifestar-se.
+`
 }
 
 eusou[22] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<Br>
+EU SOU A RESSURREIÇÃO E A VIDA.
+`,
+"texto": `É a afirmação que vence todas as dificuldades, suprimindo ou eliminando a incompreensão da mente, que trata de encontrar a solução somente no mundo exterior.
+<br><br>Qualquer situação amarga, incômoda, pode ser vencida com esta afirmação, seja no próximo ou em si mesmo.
+<br><br>Esta afirmação restabelece e equilibra as correntes mal dirigidas. Cura e sara as enfermidades físicas e até rejuvenesce o aspecto físico.
+`
 }
 
 eusou[23] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<Br>
+EU SOU A RESSURREIÇÃO E A VIDA.
+`,
+"texto": `As poucas afirmações que Jesus nos deixou, quando usadas conscientemente, têm o poder do - EU SOU - e a ajuda individual do Grande Mestre.
+<Br><br>Devemos contemplar o verdadeiro significado de cada afirmação, e então ao sentir e expressar - EU SOU -, se põe em movimento O GRANDE PODER DIVINO EM Si MESMO E NO PRÓPRIO EU PESSOAL, sem limitação, e recebemos o que desejamos ou propomos.
+`
 }
 
 eusou[24] =
