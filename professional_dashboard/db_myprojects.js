@@ -11,6 +11,8 @@ myProjects[0] = {
                 <br>english-dialogues_front
                 <br><br>
                 Próximo passo: 
+                <br>Alterar o menu
+                <br><br>
                 <br> Fazer aparecer as palavras que não conheço. Componente: WordsInProgressByText
                 <br>
                 
