@@ -119,3 +119,16 @@ myProjects[5] = {
     "descricao": `Diário traduzido.`
 }
 
+myProjects[6] = {
+    "title": "Sys Tasks",
+    "status": `Fazer upgrade`,
+    "descricao": `Tarefas gerais.`
+}
+
+myProjects[7] = {
+    "title": "Central de pedidos",
+    "status": `Fazer upgrade`,
+    "descricao": `Tarefas gerais.`
+}
+
+

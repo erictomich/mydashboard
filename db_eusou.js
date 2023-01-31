@@ -265,44 +265,80 @@ EU SOU A RESSURREIÇÃO E A VIDA.
 
 eusou[24] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O AMOR, O SABER E O PODER MANIFESTADOS EM TI (OU EM MIM).
+`,
+"texto": `Elimina toda criação mental externa e imperfeita e levará o EU a sentir que EU SOU DEUS EM AÇÃO.
+<br><br>Os defeitos externos não têm nada que ver com a perfeição ONIPOTENTE do EU SOU DEUS EM AÇÃO, porque são conceitos de erros mentais da Humanidade.
+<br><br>Se o homem aceita que EM DEUS VIVE, SE MOVE E TEM O SER, poderá sentir e ver a PERFEIÇÃO DE DEUS em tudo.
+<br><br>Devemos repetir: EU SOU O AMOR, O SABER E O PODER que se manifestam em mim com toda a PERFEIÇÃO.
+`
 }
 
 eusou[25] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br><br>
+EU SOU A LUZ QUE BRILHA NAS TREVAS DE MINHA MENTE.
+`,
+"texto": `Quando se abrem os olhos a esta verdade, todo desejo pela LUZ E VERDADE se converte em realização e toda a ENERGIA DO SER se dirige no centro do cérebro. Esta afirmação com - EU SOU A RESSURREIÇÃO E A VIDA - são as chaves dos milagres realizados por Jesus. Cada vez que o homem empreende um trabalho construtivo, é - EU SOU DEUS - Quem lhe guia para fazê-lo.`
 }
 
 eusou[26] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br><br>
+EU SOU A RESSURREIÇÃO E A VIDA. EU SOU DEUS EM AÇÃO NESTE MEU EU.
+`,
+"texto": `Cada um tem que praticar por si mesmo. para dar-se conta do Grande Poder que se encontra dentro de si.
+<br><br>Tudo o que se diga sobre a transcendental importância desta verdade é pouco.
+<br><br>Somos mensageiros desta verdade e afirmamos somente que os resultados são infalíveis o seguros, quando a usamos com firmeza e perseverança.
+`
 }
 
 eusou[27] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O AMOR DIVINO QUE DIRIGE O MUNDO.
+`,
+"texto": `Esta afirmação elimina o desgosto, o rancor e o ódio entre os homens. Este é o fluxo divino que pode restabelecer a Paz, a Sabedoria e o Poder entre os homens de boa vontade.
+<br><br>Devemos sempre trabalhar incognitamente e que a ação se mantenha em sigilo.
+<br><br>O silêncio é a primeira condição para o adiantamento e o êxito.
+<br><br>A alma forte não encontra jamais barreiras entre, ela e o Amor Divino.
+`
 }
 
 eusou[28] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:
+<br>EU SOU A PRESENÇA DIVINA QUE ATUA EM CADA MENTE, CORAÇÃO E CORPO.
+`,
+"texto": `Esta afirmação elimina a dor e o mal estar criado pela ignorância do Eu pessoal e seu intelecto.
+<br><br>Poucos minutos de contemplação farão que a mente sinta que EU SOU A PRESENÇA INTELIGENTE E PODEROSA QUE ATUA NA MENTE, CORAÇÃO E
+CORPO, e esta Presença é o próprio Deus que enche cada uma de nossas células.
+`
 }
 
 eusou[29] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU DEUS EM AÇÃO EM MEU EU E EM CADA SER.
+`,
+"texto": `Aquele que sente esta verdade, já pode pedir e usar o desejo construtivamente e "tudo o que pedirdes vos será dado".
+<br><br>Quando o desejo é enviado pela "Presença, Poder ou Inteligência de Deus", não pode falhar. Deve trazer sua resposta.
+<br><br>Os pensamentos e os sentimentos são os PODERES CRIADORES DE DEUS EM AÇÃO.
+<br><br>Porém, os pensamentos e sentimentos mal usados trazem enfermidades, discórdias, desgraças e produzem o caos no mundo.
+<br><br>Esta afirmação e a anterior renovam completamente o corpo e sua expressão externa em um curto período, e a perfeição começa a manifestar-se em cada órgão, fazendo-o voltar à sua atividade normal e o homem será são e salvo.
+<br><br>Pedi e vos será dado. Mas pedi, AFIRMANDO.
+`
 }
 
 eusou[30] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A CHAMA QUE CONSOME TODO ERRO.
+`,
+"texto": `Deus, sendo todo amor, nunca castiga pelos erros cometidos; mas o homem ao reconhecer sua falta, deve pedir sabedoria para não voltar a cometer o mesmo erro outra vez.
+<br><br>A Chama Divina consome todo erro com seu respectivo efeito o gera amor, centro de toda vida, que converte a chama consumidora em Luz do mundo que ilumina a toda mente até obter a verdade e a liberação do erro.
+`
 }
 
 eusou[31] =
