@@ -1458,116 +1458,181 @@ EU SOU A ÚNICA PRESENÇA QUE ATUA.
 
 eusou[185] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br> EU SOU A JUSTIÇA QUE TUDO REGE.`,
+"texto": `"Pedi o Reino de Deus e seu justo uso". O aspirante deve afirmar sempre que - EU SOU - a justiça cujo poder é invencível e que o homem é o canal poderoso da justiça.
+<br><br>Pensar nos governantes do mundo e lançar a afirmação 'precedente é convertê- los em servidores do mundo em vez de tiranos, porque - EU SOU - governará com justiça e amor através deles.
+<br><br>Esta é a grande maneira de ajudar à Humanidade e não como acreditam alguns que a única ajuda aos demais consiste em curar enfermos.
+`
 }
 
 eusou[186] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A VERDADE QUE FAZ LIVRE A CADA SER.
+`,
+"texto": `Quando Jesus disse: "Conhecereis a verdade e a verdade vos fará livres", nos convidou a reconhecer a - EU SOU - por meio de meditação e o sentir: Sentir primeiro que - EU SOU - O CRIADOR DESTE MUNDO, e em segundo que EU SOU A PRESENÇA ATUANTE NELE. Não devemos deixar que a mente pense algo contrário a esta verdade, porque de outra maneira, nos assemelharíamos ao Ignorante que se veste com roupa nova para ir limpar a sujeira das ruas.
+<br><br>Nunca se deve pensar em coisas desagradáveis passadas. Nunca devemos retê- las em nossa mente; "devemos esquecer e perdoar".
+<br><br>Dar e perdoar é o lema do - EU SOU.
+`
 }
 
 eusou[187] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A PLENITUDE DO AMOR.
+`,
+"texto": `Nunca existiu o Deus que ensinava: "Olho por olho e dente por dente". Quando depuramos este conceito que temos DELE, chegamos a depurar toda forma, aspecto ou idéia que se concebe no mundo.
+<br><br>Quando estamos prestes para afrontar com valor tudo sem desejo de criticar, condenar ou odiar, então seremos livres sobre a Terra, a iluminação nos virá, e nosso corpo não será senão uma sombra inconsistente que vai do nascimento à tumba. Devemos repetir silenciosamente esta afirmação à pessoa com a qual estamos em desacordo, desejando-lhe bênçãos e prosperidade. É o único caminho que nos livra do fracasso do eu inferior.
+`
 }
 
 eusou[188] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A RIQUEZA, O BEM-ESTAR, A FELICIDADE E TODA COISA CONSTRUTIVA QUE SE PODE CONCEBER E DESEJAR.
+`,
+"texto": `Esta é a verdadeira liberdade econômica para si e para os demais.
+<br><br>Quantas vezes temos desejado a riqueza aos demais? Cada qual que responda a si mesmo. Queres ajudar teus irmãos na vida? Queres levantar o próximo? Pois aqui tens o método: este é o caminho e a porta que podes abrir diante de quem tem necessidade de abundância e bem-estar.
+`
 }
 
 eusou[189] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A RESSURREIÇÃO E A VIDA DE TODO TRABALHO, ENTENDIMENTO, DESEJO E ATENÇÃO.
+`,
+"texto": `A Divina Presença - EU SOU - invocada nas situações difíceis, varre o desalento, o ódio e toda condição indesejável no trabalho e nos negócios. Desta maneira, o discípulo permite que a potente energia interna flua para seu desejo e assim pode recuperar a perda sofrida.`
 }
 
 eusou[190] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A TOLERÂNCIA E A LEI DO PERDÃO.
+`,
+"texto": `Não devemos julgar nunca, porque não temos nenhum direito de fazê-lo e porque não conhecemos as condições ou forças sob as quais atuou nosso próximo. Julgar é pior do que assassinar, porque o pensamento e o sentimento desta índole são odores criadores e viciosos dirigidos ao ser julgado; dana-os obrigando-os a agir segundo a energia acumulada neles e, em seguida, voltam a quem os emitiu para destruí-los e destruir suas empresas e assuntos.`
 }
 
 eusou[191] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O ÚNICO CONTROLE DENTRO (DESTE SER).
+`,
+"texto": `Se encontramos um irmão desviado, em vez de criticá-lo e julgá-lo, devemos derramar sobre ele a tolerância e o amor com a afirmação precedente; falando silenciosamente à sua consciência se lhe dá a maior ajuda.
+<br><br>Dizem que da discussão nasce a luz; isto é falso. Não se deve discutir nunca, porque a discussão atrai antagonismo. Ninguém sabe o que o - EU SOU - deseja fazer na outra pessoa.
+<br><br>Um pensamento de amor vai direto à consciência do próximo, onde por sua vez gera amor e volta ao que o emitiu cheio de flores e frutos de amor.
+`
 }
 
 eusou[192] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O PENSAMENTO E O SENTIMENTO DE AMOR EM TODA MENTE E CORAÇAO.
+`,
+"texto": `A maioria das enfermidades do corpo e da mente provêm do sentimento destrutivo, como a inveja, o rancor, etc. que se envia a outras pessoas. Ninguém pode calcular como reagem estes sentimentos sobre o corpo vital de quem os emitiu. Não se deve ter nem ressentimento, porque é um grau menor de rancor e de ódio. A afirmação que precede não somente traz descanso e paz, senão que também traz consigo, dons ilimitados da Presença Divina.`
 }
 
 eusou[193] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A JUSTIÇA DIVINA EM TODA MENTE E EM TODO CORAÇÃO.
+`,
+"texto": `A justiça nada mais é do que a expressão da lei eterna e inalterável. Esta lei não se viola jamais. Quem faz uma má ação deve pagá-la cedo ou tarde. A lei natural não distingue entre o justo e o injusto. Aquele que sabe como colocar eletricidade em sua casa, terá luz e força, seja ele um malvado ou um santo. Aquele que conhece a lei da prosperidade adquire a prosperidade, sem que a natureza se ocupe de si se é um sábio ou um ignorante. Aquele que pega um carvão aceso com uma pinça não queima a mão, seja ele um anjo ou um demônio.
+<br><br>A ignorância que é atrevida, desafia a lei e ocasiona a si mesma o dano. A lei e a justiça são bondade e amor; quando o homem lança no espaço pensamentos, sentimentos e ações de caráter destrutivos encontrará em sua vida, em seus negócios, em sua família, reações destrutivas.
+`
 }
 
 eusou[194] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O AMOR, ENCHENDO A MENTE DOS POVOS E DAS NAÇÕES.`,
+"texto": `Quando um povo inteiro lança ao espaço vibrações de ódio, de guerras, de ambições e de mesquinharias não deve se queixar ao encontrar depois as mesmas condições. Quando um homem ou povo radia amor, confiança, otimismo, generosidade, etc..., não faz senão operar a lei para uma causa melhor, segura e inevitável. Eis aí a justiça. Aquilo que nossa atitude mental reclama é o que recebemos; nem mais e nem menos.`
 }
 
 eusou[195] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O PODER E O JUSTO USO DO REINO NO HOMEM.
+`,
+"texto": `O reino é o amor, o acerto e a justiça que estão dentro de nós próprios. Devemos desenvolvê-los em nós, e não criticar os que prosperam atribuindo-lhes boa sorte.
+<br><br>Repitamos constantemente esta afirmação para adquirir o justo uso e o acerto com amor em nossos pensamentos, palavras e ações.
+<br><br>Aquele que pede justiça deve aprender a ser justo consigo mesmo e com os demais. Aquele que aceita que - EU SOU - mana justiça em seus assuntos, encontra segurança, confiança e serenidade.
+`
 }
 
 eusou[196] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A FORTALEZA E O PODER DESBORDANTE (EM TI).
+`,
+"texto": `A energia de Deus está esperando sempre que se lhe ponha em uso.
+<br><br>A expressão - EU SOU - está inerente à atividade, à força, à fortaleza, etc... que sustentam o Todo. Devemos recordar sempre que o tempo não existe, e estas afirmações nos levam à ação instantânea e os resultados se manifestam logo, e sentimos esta tranqüilidade absoluta, sobretudo se a usamos para ajudar o próximo, que esteja complicado em qualquer assunto, que lhe esteja roubando força e energia,
+`
 }
 
 eusou[197] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O VALOR E O VIGOR (EM TI).
+`,
+"texto": `É a afirmação contra o medo. As glândulas supra-renais, sob a ação de circunstâncias repentinas ou extraordinárias, segregam certa substância que entra na circulação do sangue para produzir uma ação de resistência e de vigor; o desgaste destas glândulas deixa o homem sob o domínio permanente do medo e lhe tira a confiança em si mesmo; está sempre cansado física, mental e espiritualmente sem poder renovar suas forças.
+<br><br>Está comprovado que a sensação de cansaço é meramente imaginativa, porque se tem observado que sob a pressão de circunstâncias extraordinárias, o cansaço desaparece e a fortaleza volta para executar o trabalho mais intenso.
+`
 }
 
 eusou[198] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A FÉ, A ESPERANÇA E A ALEGRIA (EM TI).
+`,
+"texto": `Devemos repetir esta afirmação sempre e sobretudo à noite antes de dormir, porque o último pensamento antes de entregar-se ao sono deve ser alegre, cheio de esperanças e vigor, para que o descanso, no sono, seja perfeito.
+<br><br>Aquele que, de manhã, acorda cansado, deprimido ou sem perfeita beleza física deve cuidar com sumo interesse que seus pensamentos sejam alegres e positivos.
+<br><br>Depois da afirmação pode dirigir os pensamentos aos rins a fim de que - EU SOU - envie seu veículo, o sangue, a essa região, enchendo-a de vigor; então o descanso é perfeito, e a saúde, o entusiasmo e a juventude se manifestam no corpo, no dia seguinte.
+`
 }
 
 eusou[199] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A SUBSTÂNCIA QUE MODULA COM AMOR TODA EXISTÊNCIA.
+`,
+"texto": `Esta afirmação desenvolve e outorga ao discípulo a potência da abundância e o domínio da riqueza. Há muitos ricos pobres, porque a riqueza torna pequeno seus espíritos e sentem medo de dar.
+<br><br>Na prosperidade com amor não sabe nada de estreito nem pequeno. Para ser próspero devemos afirmar sempre que - EU SOU A SUBSTÂNCIA CRIADORA DE TODA EXISTÊNCIA, e dar liberdade à riqueza para criar prosperidade por obra do amor e não pelo luxo, ou desperdício. Saber gastar o centavo com o senso do uso justo e não os milhares tontamente.
+`
 }
 
 eusou[200] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O AMOR, PRINCIPIO E FIM EM CADA UMA DE TUAS OBRAS.
+`,
+"texto": `Está provado que o Universo foi formado em curvas e círculos e que, se nos lançássemos em linha reta no espaço, realmente acabaríamos por nos encontrar no mesmo ponto de partida. Assim sucede com nossas vibrações de amor ou de ódio; ao serem lançadas ao Universo, voltam sempre a nós mesmos, aumentadas de vibrações similares emitidas por outros seres.`
 }
 
 eusou[201] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O AMOR INFINITO, FONTE DE RIQUEZA, ABUNDÂNCIA, PROSPERIDADE E ACERTO EM TI.
+`,
+"texto": `O amor não se limita à sexualidade, senão que abarca toda vibração de bondade.
+<br><br>Não somente é afetivo o amor, mas, também, impessoal, que pode ser um afeto bondoso para todos os seres onde quer que estejam. Este amor deixa no coração, uma sensação profunda de paz, de tranqüilidade e de felicidade imperturbáveis; é a lei do regresso das vibrações que lançamos; é o efeito da causa.
+<br><br>"Busquemos o Reino do Amor e todas as demais coisas nos serão dadas por acréscimo."
+`
 }
 
 eusou[202] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O GRANDIOSO AMOR NO CORAÇÃO, PROJETADO CONSCIENTEMENTE PARA O MUNDO.
+`,
+"texto": `Enviemos estas irradiações, com toda nossa força; e a Poderosa Chama consome do mundo todo ódio, rancor e desarmonia entre os homens e todo o indesejável e imperfeito nas atividades de nosso mundo.`
 }
 
 eusou[203] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A PAZ EM TODO CORAÇÃO, QUE FLUI NO MUNDO.
+`,
+"texto": `Se não temos paz em nosso coração não podemos proporcioná-la ao mundo. O amor consome com sua chama as imperfeições e seus efeitos dolorosos. A paz traz a felicidade e a beleza. Afirmemos com toda a energia do sentimento para que a paz tome lugar em nosso ambiente e mundo de atividade, e nossa luz iluminará a mente de nossos semelhantes para pedir e trabalhar para a paz.`
 }
 
 eusou[204] =
