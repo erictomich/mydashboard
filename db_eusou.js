@@ -736,592 +736,593 @@ EU SOU A MENTE INFINITA COM FOME ETERNA DE DAR, DE SEMPRE DAR.
 eusou[71] =
 {
 "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
-EU SOU O BEM. O MAL NÃO EXISTE.
-`,
-"texto": ``
+EU SOU O BEM. O MAL NÃO EXISTE.`,
+"texto": `Em todo o universo não existe senão o poder positivo do EU SOU DEUS EM AÇÃO EM TODA PARTE E TEMPO. O que aparece como mal, é a carência da Luz; é a ignorância de adquirir o bem existente em toda parte; é a enfermidade na ignorância de viver segundo as leis da saúde.`
 }
 
 eusou[72] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU ONIPRESENTE EM TUDO. NÃO HÁ FALTA DE VIDA, DE SUBSTÂNCIA, DE INTELIGÊNCIA EM PARTE ALGUMA.`,
+"texto": `Esta afirmação nos libertará da sugestão de crer nas condições materiais e nos afirma no sentir de que nós somos o que temos querido ser e seremos o que queiramos ser.`
 }
 
 eusou[73] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A PRESENÇA ONIPOTENTE EM TUDO.`,
+"texto": `Logo, não há dor; a enfermidade, a pobreza, a velhice são filhas do intelecto e podem ser eliminadas com a união consciente, com o - EU SOU. Não existe coisa alguma no mundo que possa infundir medo ao homem, porque a Potência dentro do homem de Fé, é superior a tudo o que é negativo.`
 }
 
 eusou[74] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A PRESENÇA ONiSCIENTE EM TUDO.`,
+"texto": `Assim sendo, todas as sabedorias estão ao nosso alcance. Seremos como o fogo vivo que consome toda a negação. Não julguemos ninguém. Afirmemos a convicção para eliminar a negação. Se alguém nos demonstra má vontade, afirmemos: EU SOU O AMOR NESTE SER. Não devemos ter inveja de ninguém, porque somos uno com o Infinito, e como disse São Paulo: "Como pode uma parte de mim mesmo ter zelos e inveja da outra?". Afirmemos: EU SOU A ALEGRIA PELO TRIUNFO DESTE SER. Estas afirmações são as chaves mágicas, são o gozo de Deus em nós outros; são TODO O PODER EM NOSSAS MÃOS.`
 }
 
 eusou[75] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A PRESENÇA DO FOGO DIVINO NA ATIVIDADE SEXUAL CRIADORA.`,
+"texto": `Com todo respeito e com toda santidade devemos repetir esta afirmação cada vez que sentimos a atividade sexual divina em nós. O homem é DEUS CRIADOR pelo sexo e tudo o que deve ser criado deve ser bom. O fogo do sexo é o fogo da santidade. A origem do sexo tem a sua raiz na mesma Divindade. O homem ao orar, invoca a Deus; porém, ao unir-se sexualmente à mulher, converte-se em Deus. O sexo está em Deus, assim como o filho está no Pai. O homem no ato sexual deve sentir Deus Criador Onipotente. Mas, existe sexualidade carnal e sexualidade espiritual: a carnal é o nascimento e morte; a espiritual é a ressurreição eterna. Mas, cada vez que se apresente uma idéia errônea do sexo ou no sexo, devemos repetir, com santidade, a afirmação precedente.`
 }
 
 eusou[76] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O FOGO DEVORADOR NO SEXO QUE CONSOME TODA IMPUREZA DA MENTE.`,
+"texto": `O verdadeiro casto é o que leva sua virilidade até a Divindade, porque a verdadeira castidade deve estar na pureza e santidade do sexo. O prazer sexual é incompleto quando se distancia da pureza sexual; ambos são necessários para a união. Sentir o impulso sexual é sentir a Divindade em si, que tende a criar primeiro no invisível, para depois manifestar-se no visível. Se a origem é limpa e santa, o visível será limpo, puro e santo.`
 }
 
 eusou[77] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A LUZ INEFÁVEL NO SEXO, QUE ILUMINA TODO CORAÇÃO E TODO CÉREBRO.`,
+"texto": `A sexualidade espiritual tem por objetivo achar o elixir da vida e a pedra filosofal que transmuta os metais para a realização perfeita de toda obra. Antes de empreender uma obra transcendental, deve-se acercar-se com toda pureza à esposa espiritual, de modo a permitir que a luz atravesse os dois. O fogo criador de JEOVÁ na Sarça arderá, e então, no sistema nervoso sem consumi-ia, se converterá na Luz Inefável que ilumina o coração e o cérebro.`
 }
 
 eusou[78] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O AMOR QUE ELIMINA TODO MEDO E TODO TEMOR.`,
+"texto": `Muitos seres têm medo da pobreza e do que os demais podem dizer, e assim, o mesmo medo os converte em pusilânimes, avaros e invejosos. Esta afirmação varre todas as escórias mentais, porque o AMOR nada teme; ao contrário, liberta-nos das cadeias do medo, origem de todo o mal. Quando reconhecemos e afirmamos o AMOR DIVINO, como um rio, ELE se desemboca em nosso Centro, e de dentro de nós um Poder Formidável inunda o mundo e seus habitantes, de paz, felicidade e bem-estar, e assim, nos convertemos em canais do EU SOU.`
 }
 
 eusou[79] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU O PODER QUE GOVERNA HARMONIOSAMENTE O CORPO, O CORAÇÃO E A MENTE, CONTROLANDO O MUNDO, A VIDA E OS SERES.`,
+"texto": `Do Infinito Imutável, procede tudo o que existe. É ELE O - EU SOU - impessoal e que se expressando em cada um de nós, chega-se a ser Pai-Mãe de amor, saber e poder. Tudo o de que necessitamos ou desejamos, existe no grande depósito de tudo o que é bom, todavia, à espera de uma oportunidade para ser expressado.`
 }
 
 eusou[80] =
 {
-"afirmacao": ``,
-"texto": ``
+"afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+EU SOU A FONTE DO AMOR DIVINO QUE ATUA.`,
+"texto": `Esta fonte de amor do qual procedemos não tem limite em sua vontade de expressar e atuar em nós, e através de nós, se estamos preparados e desejosos de expressar o que é positivo, ou seja, a sua divina vontade. Temos que retornar permanentemente, em nossos corações, ao mundo Interno, mundo do PAI-MÃE, para satisfazermo-nos na reminiscência do passado que não é outra coisa que o desejo do - EU SOU - A EXPRESSÃO CONSCIENTE EM CADA HOMEM.`
 }
 
 eusou[81] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A FONTE DO AMOR, DO SABER E DO PODER QUE ATUA NESTE (MEU) TEMPLO CORPO.`,
+  "texto": `Tudo o que existe procede de uma única Fonte. Todos os dons positivos de amor, saber, poder etc. nos vêm dessa Fonte. Estamos ligados inconscientemente com ELA, porém, nossa Ignorância obstrui o fluir de seus dons. Cada um de nós deve expressar, para fora, sobre os demais, todo o bem que quer receber dessa Fonte. Desta maneira, converte-se o homem, em - EU SOU - A FONTE DO AMOR QUE ATUA EM TODO TEMPLO CORPO.`
 }
 
 eusou[82] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU O REINO DENTRO DE CADA SER POBRE DE ESPÍRITO.`,
+  "texto": `O Pobre de espírito não é um tonto, senão aquele que afirma com Paulo: "As tonteiras de Deus são as sabedorias dos homens". Então seu espírito sente a fome dos pobres que é o impulso divino interno para encher-se de saber e saciar-se do amor que são como o pão da vida.`
 }
 
 eusou[83] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A MANSIDÃO EM CADA SER.`,
+  "texto": `O manso, o ser suave, o ser grato, domina o mundo; possuirá o espírito da terra quem põe a seu serviço, todos os elementos para atender suas necessidades.`
 }
 
 eusou[84] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU O CONSOLO DOS QUE CHORAM.`,
+  "texto": `Não dos que choram pela perda de uma ilusão mental ou pelo fracasso de negócios, e sim por aqueles que choram pela injustiça, pela mentira, pela fraude, pela ignorância da humanidade que não quer compreender que é uma só família, todos filhos de um só Pai.`
 }
 
 eusou[85] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU O ALIMENTO CELESTIAL DAQUELES QUE TÊM FOME E SEDE DE JUSTIÇA.`,
+  "texto": `Pois, nossos desejos são a medida de nossa capacidade. Quem aspira à justiça, receberá esse alimento celestial para administrá-la e obrigar a outros que a administrem. Devemos repetir todas estas afirmações em todos os casos necessários. Se desejamos que um juiz dê justa sentença, enviemos-lhe esta afirmação do Sermão da Montanha, e o resultado não demorará a manifestar-se.`
 }
 
 eusou[86] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A MISERICÓRDIA EM TODO CORAÇÃO.`,
+  "texto": `Esta afirmação nos torna misericordiosos, tolerantes e pacíficos com os nossos semelhantes e em todas as circunstâncias e assim seremos como o Infinito, Onipotentes, bons e não daremos mais abrigo ao mal, ao fracasso e à pobreza.`
 }
 
 eusou[87] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU, EU ESTOU NO CORAÇÃO PURO E LIMPO.`,
+  "texto": `O coração puro vê a Deus, isto é, sente que o - EU SOU - por ele se manifesta e expressa para a humanidade seus atributos e dons e nos pode dar o que soubermos e pudermos desejar; "Porque nenhum olho humano viu, nenhum ouvido ouviu e nenhum homem ainda pôde compreender as coisas que o Pai já tem preparadas, para aqueles que descubram e sigam Suas Leis".`
 }
 
 eusou[88] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A PAZ NO CORAÇÃO DOS PACIFICADORES.`,
+  "texto": `Afirmar uma coisa é asseverar positivamente que essa coisa é assim. "Afirmarás uma coisa e ela te sucederá." Se todo o mundo, ou mesmo a décima parte da humanidade afirmasse a Paz, todos os demais se converteriam em pacíficos e não mais haveria guerras. Nunca devemos falar de guerras, nem de sua proximidade, melhor, devemos negá-las e afirmar a paz nos corações.`
 }
 
 eusou[89] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU O REINO, O REFÚGIO DE TODO PERSEGUIDO QUE NÃO QUER RESISTIR AO MAL.`,
+  "texto": `Resistir ao mal com outro mal é criar dois males ao mesmo tempo. Aquele que resiste ao mal com o bem, será perseguido, mas por último, triunfará.`
 }
 
 eusou[90] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A LUZ DO MUNDO.`,
+  "texto": `Esta luz brilha no homem e à vista dos homens como uma tocha para guiar a todos que caminham nas trevas do medo e da ignorância. EU SOU A LUZ que transcende toda ignorância e todo o erro com a ação sustentada por si mesma e para sempre.`
 }
 
-eusou[91] =
+
+eusou[91] = 
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU O AMOR, O PERDÃO E A INDULGÊNCIA NO SER.`,
+  "texto": `Afirmar amor é não ferir o próximo; afirmar o perdão é não levar em conta o mal 
+  que ignorantemente nos fizer; afirmar a indulgência é dar-lhe poder, para que se corrija.`
 }
 
-eusou[92] =
+eusou[92] = 
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU O AMOR PURO NO HOMEM E NA MULHER.`,
+  "texto": `Esta afirmação elimina da mente do casal a ideia do desejo animal e os aproxima
+  do amor divino; e com isto, o homem vê a presença de Deus nas entranhas da mulher e 
+  a mulher O vê na espinha dorsal do homem.`
 }
 
-eusou[93] =
+eusou[93] = 
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A VERACIDADE DA PALAVRA.`,
+  "texto": `Esta afirmação faz com que a língua seja capaz de criar, mediante a palavra, porque 
+  Falar é Criar. Quem afirmar e praticar durante um ano a veracidade no falar, descobrirá a 
+  palavra perdida. Bastará dizer ao enfermo: "Sara", e ficará são; ao vicioso: "Sê Perfeito", e 
+  ficará perfeito, porque seus lábios estarão purificados pelo fogo da verdade e sua palavra se 
+  converterá em Lei.`
 }
 
-eusou[94] =
+eusou[94] = 
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A LIBERAÇÃO QUE TRIUNFA EM TODAS AS CIRCUNSTÂNCIAS.`,
+  "texto": `O homem vive empolgado com o mel de seus dias, ou amargurado com o fel de suas noites. 
+  Esta afirmação lhe dá a liberação e o triunfo sobre si mesmo. Liberação da vida e triunfo sobre a morte; 
+  liberação da inocência e triunfo pelo saber: liberação do prazer e triunfo sobre a dor.`
 }
 
-eusou[95] =
+eusou[95] = 
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A FÉ E A CERTEZA QUE MATA TODA DÚVIDA.`,
+  "texto": `Amiúde, dizem alguns: "Eu mantive esta ideia por muito tempo e ela não se manifestou". 
+  Pois, esta é uma prova de que existia uma dúvida em alguma parte da consciência. Devemos agir com 
+  firmeza, sem desalento e tudo nos será dado.`
 }
 
-eusou[96] =
+eusou[96] = 
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A FÉ QUE OBRA MILAGRES.`,
+  "texto": `"Porque em verdade vos digo: quem disser a esta montanha, move-te daqui e arroja-te no mar, 
+  e não duvidar em seu coração, e sim crer que as afirmações que faz, se convertem em realidade, terá 
+  tudo quanto afirmar." (Marcos XI, 23).`
 }
 
-eusou[97] =
+eusou[97] = 
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A FÉ QUE CONVERTE A SUBSTÂNCIA EM REALIDADE.`,
+  "texto": `"A fé é a substância das coisas que desejamos, a evidência das coisas que não se veem", disse São Paulo. 
+  Isto quer dizer que "a fé agarra a substância das coisas que desejamos". Continua: "As coisas materializadas 
+  não foram feitas das coisas visíveis e sim procederam do invisível. Portanto, de algum modo, tudo o que 
+  desejamos está, em princípio, na substância invisível que nos rodeia, e a fé é o poder que tem a capacidade 
+  de converter os desejos em realidade." Temos que gravar isto na mente e repeti-lo milhares de vezes, 
+  sentindo no íntimo, esta verdade.`
 }
 
-eusou[98] =
+eusou[98] = 
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A FÉ CUJO PODER TUDO PODE.`,
+  "texto": `"Um poder que subjuga impérios, que fecha as bocas dos leões, que apaga o fogo, que derrota 
+  exércitos, que levanta os mortos de suas tumbas e os devolve à vida." E, se nossos desejos superam a tudo 
+  isto, não devemos duvidar se queremos que as nossas petições se convertam em realidade. O mais excelso 
+  dos seres disse: "Aquele que crer, todas as coisas serão possíveis".`
 }
 
-eusou[99] =
+eusou[99] = 
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A FÉ QUE MOVE O INFINITO.`,
+  "texto": `O Infinito, com prazer, nos dá de acordo com a nossa Fé. Devemos conquistar a Fé se não a temos. 
+  "Sem fé, é impossível comprazer a Deus", se tem dito; isto é simbólico, e significa que sem fé não se pode ter 
+  nenhum dos dons do Infinito. Quem duvida, impede que seu pedido chegue à fonte do Doador de tudo o que é bom.`
 }
 
-eusou[100] =
+eusou[100] = 
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": `EU SOU O QUE O CRIADOR É. LOGO:<br>
+  EU SOU A FÉ, PROVISÃO DE TODO PODER E DE TODO PEDIDO.`,
+  "texto": `Esta verdade está baseada sobre leis imutáveis, como por exemplo: a soma de três ângulos de um triângulo 
+  é igual a dois ângulos retos. Que saibamos ou não, nada altera o fato em si. Na proporção que soubermos que na Fé 
+  se encontra todo o poder e que esta verdade eterna nos beneficia, o que se pedir receber-se-á.`
 }
 
-eusou[101] =
-{
-"afirmacao": ``,
-"texto": ``
+
+eusou[101] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O DESEJO, PROMESSA SEGURA NO CORAÇÃO. EU SOU A FÉ DE 'O QUE PEDE RECEBE'.",
+  "texto": "EU SOU O AMOR QUE 'ANTES QUE ME CHAMEM, RESPONDO'. Ao se desejar uma coisa, é a coisa mesma que se começa, disse Evans. O que vale dizer que a coisa desejada começa sua manifestação desde o coração do Infinito até nós outros; e é a sua aproximação que produz em nós uma impressão que chamamos de DESEJO. Pedir é expressar um desejo, e quando pedimos com fé, obtemos um recurso especial que impulsiona até nós outros o que desejamos. O Nazareno, reconhecendo esta lei, disse: 'PEDI E VOS SERÁ DADO. BATEI E VOS SERÁ ABERTO.' Porque sabia que 'EU SOU, DEUS' a Substância de todas as coisas positivas e boas."
 }
 
-eusou[102] =
-{
-"afirmacao": ``,
-"texto": ``
+eusou[102] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A SUBSTÂNCIA DE TODAS AS COISAS. EU SOU A REALIZAÇÃO E ESTOU EM TODOS OS DESEJOS.",
+  "texto": "Conhecendo a lei de previsão abundante, e que provisão sempre precede ao pedido, então já se pode ter a fé e a certeza de que todo desejo bom e construtivo, é, em verdade, um desejo de Deus que em nós tende a expressar-se. Nenhum homem pode privar a outro de algo para ter mais. O que é nosso, nos está esperando. O homem que conhece esta lei está seguro de que seu bem-estar é desejado e outorgado pelo Amor Infinito."
 }
 
-eusou[103] =
-{
-"afirmacao": ``,
-"texto": ``
+eusou[103] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU NESTE SER (NELE, EM TI) O GUIA DE SUAS AÇÕES E PASSOS PARA CUMPRIR MINHA VONTADE POSITIVA.",
+  "texto": "Esta é a única forma pela qual devemos empregar ou enviar o pensamento para o nosso próximo, pois, assim sua personalidade positiva se desperta para que o Intimo expresse por intermédio dele, a Sua vontade."
 }
 
-eusou[104] =
-{
-"afirmacao": ``,
-"texto": ``
+eusou[104] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A LUZ, EU SOU A VERDADE, EU SOU A PAZ, EU SOU O AMOR.",
+  "texto": "Muitas vezes ao se começar estas práticas, o inimigo secreto, por meio do intelecto, produz fermento mental, agitação, nervosismo no fundo da alma. Antigas dúvidas se recrudescem e se apresentam ante a mente, os fantasmas das enfermidades, da pobreza e do fracasso, e se sente à beira de uma desesperação geral. Não tenhamos medo. Pois, isto significa que os velhos erros e vícios existentes em nós há muitos anos, lutam contra a luz da verdade e do amor que os removem para eliminá-los. O velho em nós tem medo, mas, não nos deixemos atemorizar; é o princípio da batalha na qual devemos triunfar e nossa poderosa e invencível arma é repetir conscientemente até obter a paz, a convicção de que EU SOU A LUZ, EU SOU A VERDADE, EU SOU A PAZ, EU SOU O AMOR."
 }
 
-eusou[105] =
-{
-"afirmacao": ``,
-"texto": ``
+eusou[105] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O VIGOR. EU SOU A DITA, EU SOU O BEM-ESTAR.",
+  "texto": "Jesus nos ensinou uma das verdades divinas quando nos disse: 'Vinde a mim todos os que estão cansados e sofridos e eu os aliviarei.' Todo ser sofrido e cansado em sua personalidade ou Eu externo, deve acudir ao chamado do 'EU SOU O VIGOR etc.'. E, ao dizermos que EU SOU SABEDORIA, ACERTO, PODER, AMOR, TRIUNFO, INTELIGÊNCIA, HARMONIA E PAZ, mais nos identificamos com ELE, mais o expressaremos, e dELE nosso ser fica cheio e saturado."
 }
 
-eusou[106] =
-{
-"afirmacao": ``,
-"texto": ``
+eusou[106] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O INFINITO EXPRESSADO EM VISIBILIDADE.<br>EU SOU DEUS EM FORMA CORPÓREA.",
+  "texto": "Esta convicção elimina o medo de nossa mente ao enfrentarmo-nos com os contratempos, com os fracassos, com os homens tiranos, soberbos e despóticos. Repetir esta afirmação, sem negar aos demais este mesmo direito, faz curvar os soberbos, como a haste de trigo em um campo açoitado pelo vento. Identificado, conscientemente, o Eu com o - EU SOU -, afirmamos nossa divindade que não pode ter medo de nada, nem de ninguém. Toda pessoa tímida deve cultivar o hábito de fazer esta afirmação, para dominar sua timidez e sentir-se possuída do Poder Infinito."
 }
 
-eusou[107] =
-{
-"afirmacao": ``,
-"texto": ``
+eusou[107] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU DEUS EM EXPRESSÃO NO SER.",
+  "texto": "Deus necessita de um órgão, de um corpo para expressar Sua alma, Seu poder e Seu amor. Desde que Deus necessita de nós outros para manifestar-se de maneira especial, de modo algum podemos sentir-nos pequenos, apoucados e miseráveis. Nós somos a ex. pressão de Deus, por mais humildes e desconhecidos que sejamos na terra. Somos nós, nem mais nem menos, do que uma necessidade para Deus em seu esforço de expressar-se na visibilidade, do mesmo modo que O é o maior e o mais importante da, Terra."
 }
 
-eusou[108] =
-{
-"afirmacao": ``,
-"texto": ``
+eusou[108] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O CENTRO DA INFINITA CIRCUNFERÊNCIA. ESSE CENTRO SOU EU.",
+  "texto": "Que cada qual dirija a si mesmo estas perguntas e as responda: Falta algo no Universo? Não, está completo. Faltando Eu pode estar completo? Não, seria incompleto. Então Eu o completo? Certamente que sim; - Portanto, sem mim não pode estar completo? Não. Em tal caso pode revelar esta verdade que: EU SOU O CENTRO DA INFINITA CIRCUNFERÊNCIA."
 }
 
-eusou[109] =
-{
-"afirmacao": ``,
-"texto": ``
+eusou[109] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU AMOR, E TUDO O QUE É AMOR É A VIDA MESMA.",
+  "texto": "Tudo é uma só substância do qual tudo foi criado e pela qual toda vida se sustém. Tudo tem vida e não há ponto algum onde não exista a vida. Toda coisa tem forma corpórea, através da qual o Espírito e a Vida têm que se expressar. Algumas formas são visíveis e outras invisíveis, mas, todas são corpóreas."
 }
 
-eusou[110] =
-{
-"afirmacao": ``,
-"texto": ``
+eusou[110] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A MENTE UNIVERSAL ONIPRESENTE.",
+  "texto": "A substância mental está em todo lugar. Podemos considerá-la como se fora a parte mais elevada da energia, assim como a matéria é face mais grosseira da energia ou substância mental. Da mente emanou a energia e da energia, a matéria. As diferenças são: 1) Matéria ... É o que usamos para vestir-nos. 2) Energia ... É o que usamos para acionar e obrar. 3) Mente ... É o que usamos para pensar. 4) Toda mente está em contato com toda outra mente e com a Mente Universal, da qual todas as mentes são partes. 5) O Universo é uma substância pensante. 6) O pensamento pode variar como varia a forma corpórea, desde o átomo até o sol. 7) A forma de pensamento mais perfeita de que temos conhecimento é a do homem. Logo: HOJE SOMOS O QUE TEMOS PENSADO SEMPRE."
 }
 
-eusou[111] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[111] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O PENSADOR: PAI E MESTRE DE TODO CORAÇÃO, DE TODA MENTE E DE TODO SER.",
+  "texto": "EU SOU O INTIMO QUE REVELA TODA VERDADE. Por falta de fé temos pensado erroneamente sem vislumbrar a luz da verdade existente nestas palavras: HOJE SOMOS O QUE TEMOS PENSADO SEMPRE. De hoje em diante, devemos pensar conscientemente - EU SOU - o Espírito de sabedoria que está dirigindo todos os nossos passos, atos respiratórios, pensamentos e tudo o que fazemos para estabelecer nossa felicidade e perfeição. Podemos aceitar todas as ciências mundanas e até aceitar Deus, o Doador da Vida, do Amor, saúde etc., mas, se estas coisas não forem sentidas, estes conhecimentos não trarão nenhum proveito. Esta Revelação deve ser no sentir interno para a realização."
+};
 
-eusou[112] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[112] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A FONTE DE TODA A VIDA.",
+  "texto": "Todos os ensinamentos de Jesus giram em torno da compreensão de que o homem é uno com o - EU SOU - Infinito. Para assinalar o caminho dessa verdade teve que começar com o homem externo e ensiná-lo a amar seus inimigos, a fazer o bem etc...; porém, seu objetivo central foi e é guiá-lo ao lugar do desejo, da aspiração e da concentração, onde se encontram a fonte da vida e da sabedoria."
+};
 
-eusou[113] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[113] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O CONSOLADOR DO REINO INTERNO.",
+  "texto": "O que prometeu Jesus aos seus discípulos, foi enviar-lhes, às suas vidas e aos seus corações, o Consolador, reenchendo-os de poder para dominar as enfermidades e a morte. Este poder do Consolador prometido é que nos ensinará muita coisa, bem como encontrar e executar a União Sentida com o - EU SOU - no ilimitado reino da Sabedoria. E, Jesus já nos disse: 'Maiores obras do que Eu fiz, fareis vós.'"
+};
 
-eusou[114] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[114] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O SANTO QUE MORA NESTE TEMPLO.",
+  "texto": "Somos a morada do Poder, do Saber, da Bondade e da Riqueza infinita. Não sabeis por ventura que o vosso corpo é o templo do Espírito Santo que mora em vós outros?"
+};
 
-eusou[115] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[115] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU DEUS IRREVELÁVEL EM TODO CORPO-TEMPLO.",
+  "texto": "Ninguém pode revelar o - EU SOU - a outra pessoa; os iniciados neste mistério podem ensinar aos demais como buscar o caminho e encontrar a Onipotência dentro de cada ser. 'Como o vento que sopra, ouvimos o seu sibilo, porém, não sabemos dizer de onde vem e para onde vai.' Assim é tudo o que nasce do Espírito. É um processo em silêncio e invisível."
+};
 
-eusou[116] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[116] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A COMPREENSÃO EM CADA SER.",
+  "texto": "A compreensão espiritual é a realização da Presença do Intimo em nós mesmos. É um dom que vem a cada um dos que aprendem como buscá-Lo. Vem ao humilde, ao sensível e a todos que hajam deixado a soberba. Vem como a luz desde o interior e o homem se sente todo modificado. Já não busca a admiração dos demais e mora na hora serena e na hora eterna do - EU SOU."
+};
 
-eusou[117] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[117] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O PAI QUE ESTA NOS CÉUS DO ESPÍRITO, FONTE DE TODO DOM.",
+  "texto": "Ao nosso Pai que está nos céus do nosso espírito, podemos pedir com coração e sem a menor dúvida, e tudo podemos conseguir. 'Pedi o Reino de Deus e seu justo uso.' Pedi a compreensão, o acerto e o poder que são os dons e atributos do Reino dos céus; usai-os com justiça e acerto, para o bem do mundo. 'E o restante vos será dado por acréscimo.'"
+};
 
-eusou[118] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[118] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O REINO DO SABER, DA VIDA E DO PODER.",
+  "texto": "Busquemos, primeiro, o Reino que é COMPREENSÃO E CONSCIÊNCIA do - EU SOU - e seu perfeito uso, e as demais coisas virão por acréscimo. 'Porque, quem quer salvar sua vida pedindo cuidados e comodidades exageradas, a perderá, e quem quer perder sua vida por mim, (por amor da verdade, amor aos demais, buscando no fundo de seu Espírito Infinito), a encontrará ali.'"
+};
 
-eusou[119] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[119] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A LIBERDADE E A LIBERAÇÃO DE TODO SER.",
+  "texto": "Nossa liberação de todas as enfermidades, de todas as dolências, pesares e erros consiste em nos tornarmos um SOL CENTRAL, que vem de dentro de nós, como liberdade; faz emanar do nosso íntimo fulgurações de LUZ. E Jesus nos ensinou o caminho: amar em vez de odiar; perdoar em vez de vingar; dar-se sempre pelo bem dos demais. Nisto consiste a verdadeira liberação."
+};
 
-eusou[120] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[120] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU UNO COM O PAI. O PAI EM MIM FAZ TODAS AS COISAS.",
+  "texto": "Esta afirmação nos torna mansos, sensíveis e PODEROSOS, porque o poder está na doçura. Os elogios, a admiração dos demais e os vitupérios já não nos afetam porque sabemos que o - EU SOU é quem obra em nós e que a personalidade nada mais é do que o canal da Divindade."
+};
 
-eusou[121] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[121] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O PÃO QUE DESCEU DO CÉU.",
+  "texto": "As almas sedentas e famintas não encontram satisfação nas riquezas, posições materiais e glórias mundanas, ao contrário, neste estado, sentem cada dia mais fome de verdade e sede de justiça. O pão descido do céu é amor e serviço: 'O maior entre vós será o vosso servidor'."
+};
 
-eusou[122] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[122] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A ÁGUA DA VIDA, QUEM BEBE DESTA ÁGUA JAMAIS TERÁ SEDE.",
+  "texto": "Corremos de um estado a outro, de uma coisa a outra em busca de descanso e de tranquilidade, e quando conseguimos algo o encontramos vazio e insatisfatório. A sede do coração não se apaga a não ser com a consciência clara e vivificante do 'EU SOU A PRESENÇA CONSCIENTE'."
+};
 
-eusou[123] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[123] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O CRISTO NO CORAÇÃO QUE REDIME A TODO SER.",
+  "texto": "Com esta afirmação consciente, nasce em nosso coração AQUELE que nos fala com voz silente, por meio da parte intuitiva de nosso ser, e nos abre os olhos para ver a luz que só sairá do silêncio profundo, quando soubermos fazer calar o eu corporal. É a compreensão do CRISTO EM NÓS ou EMANUEL."
+};
 
-eusou[124] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[124] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A PLENITUDE: PEDI E SE VOS DARÁ; BUSCAI E ACHAREIS; BATEI E SE VOS ABRIRA.",
+  "texto": "Esta promessa que a todos nos torna poderosos, é a chave de todos os mistérios. O que hoje pedimos é a consciência de poder expressar EU SOU DEUS ONIPOTENTE, ONISCIENTE E ONIPRESENTE que estabelece, sustenta e mantém controle sobre a mente, corpo, assuntos e mundos. EU ESTOU AQUI. EU ESTOU ALI."
+};
 
-eusou[125] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[125] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A PRESENÇA DA MENTE UNIVERSAL NA MENTE INDIVIDUAL.",
+    "texto": "EU SOU A PLENITUDE DO AMOR QUE ATUA. Devemos estar sempre em guarda para não sermos arrastados por pensamentos, palavras e obras discordantes, porque, tudo o que pensamos e expressamos, emana de uma fonte que é a Mente Universal, que é a Mente do Cristo com toda bondade, beleza, saúde, cooperação e poder que representa tudo isto. Por tal motivo, nossa mente deve ser um conduto perfeito destes dons."
+};
 
-eusou[126] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[126] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O INCITADOR DE VOSSOS DESEJOS CONSTRUTIVOS. EU SOU A SEIVA DE VOSSOS FRUTOS.",
+    "texto": "Nossos desejos construtivos são os desejos do Intimo em busca de expressão por meio de nós. 'Nenhum homem vem a mim, a menos que seja pelo Pai.' O Pai deseja revelar-nos sua unidade conosco e o segredo de sua Presença em nós; de outra maneira não haveríamos sentido o permanente descontentamento e a fome da Verdade."
+};
 
-eusou[127] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[127] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É LOGO:<br>EU SOU O AMOR E A ATIVIDADE INTELIGENTE EM TODO PENSAMENTO E OBRA NESTE DIA.",
+    "texto": "Devemos empregar esta afirmação ao nos despertar do sono, como atividade preparatória para o começo de nosso trabalho de cada dia. Sejamos firmes e alegres em nossa afirmação e declaração."
+};
 
-eusou[128] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[128] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A ORDEM, A PAZ E A HARMONIA EM TODAS AS ATIVIDADES.",
+    "texto": "Cada vez que pensamos em nossas atividades ou quando recordamos nosso trabalho, devemos emitir esta afirmação para abrir nosso entendimento ao fluxo divino que transforma nosso mundo externo em mundo de paz, ordem e harmonia."
+};
 
-eusou[129] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[129] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A PRESENÇA DE DEUS VIVENTE QUE SE EXPRESSA EM CADA HOMEM.",
+    "texto": "Não importa qual seja nossa condição, posição social, política ou religiosa, ou se vivemos em palácios ou em uma choça infeliz EU SOU - é a expressão em nosso corpo que é 'O TEMPLO', e nossa fome não é senão a Energia que nos impulsiona para sua manifestação no mundo visível. Devemos deixá-la expressar-se e não impedi-la com nossos atos desarmônicos e errôneos."
+};
 
-eusou[130] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[130] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A FONTE DO AMOR. VINDE A MIM.",
+    "texto": "Quando necessitamos algo, devemos ir ao 'DEUS INTIMO EU SOU' -, porque somos parte dELE. Cada um deve esperar a realização da Verdade e da VONTADE DO INTIMO DEUS. Esta atitude, conscientemente mantida, levará o homem à atividade perfeita, 'ao Dom do Poder que vem e que vem do Alto' devido à descida do Espírito Santo que mora em nosso ser e que manifesta a iluminação e o poder de dentro para fora através do fundo de nossa mente consciente."
+};
 
-eusou[131] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[131] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A AÇÃO NO SILÊNCIO. EU SOU A VONTADE DIVINA QUE ATUA NO INVISÍVEL.",
+    "texto": "Depois de cada afirmação devemos estar e ficar quietos por uns momentos, isto é: 'Esperar no Senhor', como fazia aquela criança, que depois de rezar, ficava quieta por alguns minutos, perguntando mentalmente: 'Meu Deus, tens alguma mensagem a dar-me?'."
+};
 
-eusou[132] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[132] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A ALEGRIA, A FELICIDADE EM Ti E EM CADA SER.",
+    "texto": "Muitas pessoas tratam, ao orar, de ter fisionomias sérias, tesas e solenes. Estes seres nunca podem sentir que EU SOU FELICIDADE dentro deles, porque quando entram em silêncio buscam a um Deus muito distante deles. A alegria é a melhor oração, e a melhor oração é filha da felicidade; é a afirmação EU SOU A FELICIDADE EM MEU CORAÇÃO E EM CADA SER."
+};
 
-eusou[133] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[133] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A PRESENÇA DIVINA EM MEU CORPO. EU SOU O SOL DO AMOR E DA VERDADE.",
+    "texto": "Devemos manter a mente quieta, silenciosa ante esta verdade, para recebermos a resposta do - EU SOU - por meio da voz silente e dizer como Jacó em seu sonho admirável: - EU SOU - ESTÁ AQUI (Dentro de mim) E NÃO O SABIA; SOLO SAGRADO É ESTE. Neste estado de silêncio e quietude devemos formular nossos pedidos, e então ouviremos: FAÇA-SE EM TI DE ACORDO COM TUA FÉ."
+};
 
-eusou[134] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[134] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A REALIZAÇÃO ETERNA DO QUE O MUNDO DESEJA E NECESSITA.",
+    "texto": "Meditemos nesta divina verdade: - EU SOU - está sempre em ação, realizando; não pode haver falha na realização, a menos que a mente objetiva e externa obstrua o caminho. Devemos ter cuidado ao usar - EU SOU - na expressão negativa, como 'eu estou débil' 'eu sou inútil' ou outras negações análogas."
+};
 
-eusou[135] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[135] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A PRESENÇA DA COISA DESEJADA.",
+    "texto": "Com esta afirmação deve-se pensar: 'Estou recebendo agora o que desejo'. Simplesmente, deve-se ficar quieto e sentir que a coisa desejada flui neste momento, no próprio mundo."
+};
 
-eusou[136] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[136] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A PRESENÇA QUE RESPONDE A TODA PETIÇÃO.",
+    "texto": "Para que o resultado seja mais rápido e mais seguro, deve-se agradecer como já se houvesse recebido, assim como fazia Jesus: 'Agradeço-te Pai, que me tens ouvido, e eu sei que me ouves sempre'. O ato do agradecimento clarifica a atmosfera da fé e da confiança, com as quais todas as coisas são possíveis. Não se deve duvidar ao não se receber no ato; deve-se seguir, pedindo e agradecendo até começar-se a receber. - EU SOU - não pode deixar de dar os dons positivos."
+};
 
-eusou[137] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[137] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O VERBO FEITO CARNE EM Ti. EU SOU A PALAVRA QUE SE CONVERTE EM REALIDADE NO MUNDO.",
+    "texto": "Para que se cumpra em nós o efeito desta afirmação, devemos esperar e entregar-nos à vontade de: EU SOU DEUS EM AÇÃO DENTRO DE NÓS, o que significa morar conscientemente NELE, e que nossa mente esteja alerta à voz silente DELE, e a intuição deve continuar visualizando o desejo, até convertê-lo em realidade."
+};
 
-eusou[138] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[138] = {
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A ESPERANÇA EM TODO SER E DE TODO SER.",
+    "texto": "Todo homem deve desejar, esperar e abandonar a carga tranquilamente na DIVINA PRESENÇA DO EU SOU; mas a esperança e o entregar-se, não significa abandonar-se à preguiça e ao ócio, senão que se deve trabalhar com aquela certeza alegre da realização de seu ideal."
+};
 
 eusou[139] =
 {
-"afirmacao": ``,
-"texto": ``
-}
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A CURA DE TODOS OS ENFERMOS.",
+    "texto": "Quando vemos um enfermo devemos usar esta afirmação, e o efeito é surpreendente. O poder de curar o corpo é um presente divino e como tal, devemos adquiri-lo e usá-lo. Porém, EU SOU quer dar-nos muito mais. Há alguns que se queixam de que esta afirmação não curou seu enfermo. É porque eles se esqueceram das condições exigidas. Esqueceram-se de que são semeadores do poder do - EU SOU -, eles têm que regar a semente, sem pedir à natureza que encurte o tempo de brotar; eles querem o milagre absurdo, e não sabem que todas as enfermidades não podem melhorar-se da mesma maneira e no mesmo tempo e circunstância. Por outra parte, se esquecem também de que a morte é uma bênção em todas as ocasiões; e que se o curador quisesse e pudesse curar todas as enfermidades, não haveria mais morte, e a imortalidade no corpo físico é um absurdo e uma maldição ao mesmo tempo. Sem embargo, como sabemos se o enfermo melhorou com nosso poder? Não pode ser que sua intuição, despertada por nós, o guiou a chamar um médico que acertou com sua doença e o curou? Por que devemos nos afligir por sua melhora nas mãos do médico? O que afirmamos não é: EU SOU A CURA DOS ENFERMOS? E se o doente fica curado, o que mais queremos? Se EU SOU A CURA DOS ENFERMOS, por que nos queixarmos se não melhora conosco e que papel temos nós em sua cura? SOMOS CANAIS DO - EU SOU - A CURA e nada mais."
+};
 
 eusou[140] =
 {
-"afirmacao": ``,
-"texto": ``
-}
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O CONSOLO DOS AFLITOS.",
+    "texto": "Desta forma, seremos o instrumento consciente do Íntimo, e cada indivíduo que chega a ter contato conosco sente alívio, e poderemos dizer como Jesus: 'Alguém me tocou, porque uma força saiu de mim'. O Íntimo - EU SOU - dentro de nós, é uma fonte inesgotável de vitalidade e de consolo, e por este motivo, temos a faculdade de curar e consolar."
+};
 
 eusou[141] =
 {
-"afirmacao": ``,
-"texto": ``
-}
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O QUE SOU EM CADA SER.",
+    "texto": "Existem certos seres que acreditam que o único bem que se pode fazer à humanidade é a cura dos doentes, crendo que este dom é o mais alto e o mais valioso de todos; e quando, com frequência, seu poder curativo desfalece, afligem-se por isso. Devemos compreender que - EU SOU - tem muitas finalidades em cada ser. Nem todos os homens devem curar enfermos. Há muito o que fazer na obra divina. O mundo necessita de padeiros, engenheiros, sapateiros, escritores, artistas, etc.; que cada qual cumpra com seu dever em sua profissão, pois - EU SOU - tem diversas manifestações e nenhum dom é maior do que o outro."
+};
 
 eusou[142] =
 {
-"afirmacao": ``,
-"texto": ``
-}
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O AMOR EM TODO SER.",
+    "texto": "O dom de curar enfermos não é maior do que o de lavrar a terra; nem o poder de fazer milagres é maior do que a caridade. Porém, o maior de todos os dons é o do amor, porque sem amor, nada se aproveita. 'O amor é paciente, o amor é bondoso, o amor é caridade, o amor não tem inveja, o amor não age precipitadamente, o amor não se ensoberbece, o amor não conhece ambições, o amor não busca proveito, o amor tudo tolera, tudo crê, tudo espera, tudo releva. Ele não perece nunca. O amor é perfeito. O amor dissolve toda forma de enfermidades, erros, contrariedades e penas. O amor não falha nunca.' Assim enunciou Paulo alguns dos dons de EU SOU - O AMOR."
+};
 
 eusou[143] =
 {
-"afirmacao": ``,
-"texto": ``
-}
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O VALOR QUE ELIMINA TODO MEDO DE FRACASSO.",
+    "texto": "Devemos ter o valor de considerar o fracasso como sendo êxito, e realmente assim o será. A derrota do bem não é senão uma retirada momentânea para preparar o plano da vitória. Jesus, diante de Pilatos, estava em estado de sofrimento e fracasso; mas Jesus cumpria a vontade do Pai nele e sabia de antemão que o triunfo se aproximava sem demora. O fracasso não é senão a morte do que é velho. A vida anterior cheia de erros é velha e deve morrer."
+};
 
 eusou[144] =
 {
-"afirmacao": ``,
-"texto": ``
-}
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A ONIPRESENÇA EM CADA SER.",
+    "texto": "Quando chegam os períodos de transição, é porque - EU SOU - ONIPRESENTE E ONISCIENTE, em nós, está nos guiando para esferas mais altas. Sem desencorajamento, nem medo, devemos esperar tranquilos NELE para que nos tome a mão e nos guie; porque ELE não tem outro propósito senão converter-nos em gigantes do saber, do amor e do poder, buscando o bem pelo bem, a vida porque é a vida, a obra criadora por si, não pela bagatela do pagamento. Os resultados nos serão dados 'por acréscimo'."
+};
 
 eusou[145] =
 {
-"afirmacao": ``,
-"texto": ``
-}
+    "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A VERDADE, O CAMINHO E A VIDA.",
+    "texto": "Muitos perguntam: E que vamos fazer? - Pois aqui está a resposta dada por Cristo: EU SOU a VIDEIRA E VÓS SOIS OS RAMOS. QUEM HABITA (CONSCIENTEMENTE) EM MIM E EM QUEM HABITO EU, ESSE DARÁ FRUTOS DE SI, PORQUE SEM MIM (Sem comunicação consciente comigo) VÓS NADA PODEIS FAZER... SE MORAIS EM MIM E MINHA PALAVRA MORA EM VÓS, O QUE QUER QUE PEDIRDES, ISSO SE FARÁ EM VÓS. Morar no - EU SOU - e ELE em nós, é tratar de sentir esta verdade e não conhecê-la somente pela mente."
+};
 
 eusou[146] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A VIDA. EU SOU O DADOR DA VIDA.",
+  "texto": "O psicólogo difere do sábio espiritualista. O primeiro crê que a demanda repetida, constante, importuna é a que nos dá as coisas que desejamos; enquanto que o segundo ensina que os dons gratuitos do Espírito nos têm sido dados já antes de que existíssemos na forma atual e que o objetivo da palavra é fazê-los manifestar na visibilidade. Sem embargo, ambos obtêm resultados porque ambos têm fé."
 }
 
 eusou[147] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A LEI ETERNA DO BEM.",
+  "texto": "Esta afirmação nos convence de que todos vivemos em uma só verdade. A consciência, a subconsciência ou inconsciência e a superconsciência são variações na única verdade sem oposições. A razão iluminada sabe que EU SOU DEUS não pode senão ser fonte de bondade; o que chamamos mal não é senão o erro do eu pessoal. 'Se teu olho é luminoso teu corpo está cheio de luz', disse o Mestre."
 }
 
 eusou[148] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A VIDA QUE PULSA E PALPITA NO CENTRO.",
+  "texto": "Devemos chegar ao centro de nosso ser onde mora permanentemente o Poder Onipotente; devemos sentir conscientemente A PRESENÇA DO EU SOU. Aquele que mira o centro terá um só olho, isto é, não pode ver senão o poder do bem; MAS NÃO O BEM E O MAL, PORQUE NINGUÉM PODE SERVIR A DOIS SENHORES, crendo que existem ao mesmo tempo o demônio e Deus. Viver com um só olho, ou ter um olho bom, é não ver nada mau, nada negativo, nada destrutivo. Nunca atacar o mal, nunca o combater, nunca o resistir, porque nunca a vê. Quem olha e sente o 'Centro' de cada ser, contata somente Luz e não o poder do mal."
 }
 
 eusou[149] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU AQUELE QUE É, FOI E SERÁ.",
+  "texto": "EU SOU AQUELE QUE É LUZ, AMOR E VIDA em cada ser, em todas as coisas, aqui, ali, em toda parte. LUZ como expansão criadora; AMOR como lei universal; VIDA como evolução eterna. Quem me conhece e reconhece em Espírito, conhece a história dos mundos, sente em si o universo, conhece todas as leis e sabe dirigi-las; sente em si todos os seres; é em MIM e eu nele."
 }
 
 eusou[150] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O SOL CENTRAL QUE IRRADIA SILENCIOSAMENTE EM TODA DIREÇÃO.",
+  "texto": "Oxalá todo estudante compreenda esta afirmação: EU SOU DEUS NO CENTRO, como o Sol, porque cada indivíduo que sente que é alma vivente emanada deste centro perfeito e se mantém em sua convicção, sua irradiação crescerá dia a dia e - EU SOU - começará a radiar dele e nele em todas as direções com poder crescente, sem ruído, sem palavras, levantando e enobrecendo todos os que passam por seu caminho."
 }
 
 eusou[151] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O CENTRO RADIANTE EM CADA SER.",
+  "texto": "Se queremos ajudar àqueles que se extraviaram do caminho reto; se desejamos guiar àqueles que ainda não conhecem estas verdades, não temos senão que pensar neles e afirmar o anterior, com a condição, porém, de não analisar, nem ver o mal neles, porque, em realidade, o mal e o demônio não existem. Afirmar que EU SOU O CENTRO NELES, a transformação deles se observará em poucos dias. ('Nota: se não se obtém resultado favorável é porque faltou o espírito de sacrifício que se satisfaz em agir caladamente, e quem afirmou nesse caso, não era senão a mente que não queria dar sem pedir recompensa. Sim, é muito difícil fazer o bem sem olhar a quem e dar esmolas sem tambores e trombetas.')"
 }
 
 eusou[152] =
 {
-"afirmacao": ``,
-"texto": ``
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A UNIDADE DA DIVERSIDADE.",
+  "texto": "Só os homens acreditam que estão separados da Unidade, do EU SOU DEUS, e por tal motivo formam nações, pátrias, reinos, repúblicas, partidos, religiões etc., para viverem em antagonismos e guerras permanentes. Especulam até com Deus, e em seu nome cometem as atrocidades mais cruentas uns contra os outros, esquecendo o único preceito para a salvação: 'Amai-vos uns aos outros'."
 }
 
-eusou[153] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[153] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU DEUS EM QUEM CADA SER VIVE, MOVE-SE E TEM SEU SER.",
+  "texto": "Quando chegamos a viver esta verdade divina, somos Deuses em Deus. Desaparecem de nossa mente toda ideia de separatividade e nosso coração se expande em amor desde a Unidade. Assim estamos todos em harmonia com as leis do Infinito, baseadas sobre a inteligência e o amor; somos todos filhos de um só Pai."
+};
 
-eusou[154] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[154] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A SUBSTÂNCIA DE TODAS AS COISAS.",
+  "texto": "Esta substância, este princípio é imutável; é a Lei que não sente dor, nem é susceptível ao pranto do homem. Esta Lei é Amor, Poder, Sabedoria, Inteligência, Acerto, HARMONIA e tudo o que é bom e positivo. Seu uso e manejo nos ajudam sempre a elevarmo-nos e progredir; o abuso no manejo desta Lei, é o que produz a dor, o pranto e o desconsolo. Quanto mais refletimos sobre isto, mais se expande nosso ser em grandeza e em poder."
+};
 
-eusou[155] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[155] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O PRINCÍPIO E O FIM DO UNIVERSO E DE CADA INDIVÍDUO.",
+  "texto": "O princípio é individual desde o momento em que se faz carne. O princípio é incomovível à ira, à piedade e à simpatia porque é a Lei; porém, - EU SOU - NO CENTRO DO HOMEM, trata de fazer este conhecer a Lei Imutável, para que a utilize em seu auxílio, confiando nela. Pois, - EU SOU - A SABEDORIA, VIDA, PODER E LEI transformam o ser humano em canal ou instrumento realizador de sua Sabedoria, Amor e Poder. Sem embargo, chega um momento em que o coração mais bravo se curva por um instante sob os pesos abrumadores da vida, enquanto que a mente do eu pessoal sente sua incapacidade aflitiva que dela arranca aquele grito: 'Deus meu, porque me abandonaste?' Depois: 'Que seja feita a Tua vontade e não a minha, em Tuas mãos entrego meu espírito.'"
+};
 
-eusou[156] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[156] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O REFÚGIO DOS PECADORES.",
+  "texto": "Toda alma chega uma vez à dúvida e à desesperação, e se crê só e abandonada de Deus e dos homens. O coração se sente ferido, quase se paralisa e não pode ter por um momento um pensamento correto. Precisamente neste lapso, deve-se buscar o refúgio no íntimo que é Pai-Mãe e analisar que estes sofrimentos são necessários para chegar a clamar com toda a ânsia do coração: 'Faça-se Tua vontade na Terra como no Céu'. Estes sofrimentos agigantam o poder do - EU SOU - no homem, porque nós não conhecemos suas pulsações e seu poder dentro de nós; mas, pelos sofrimentos acudimos a ELE e O chamamos, e assim ELE se expressa à visibilidade em nós e por nós."
+};
 
-eusou[157] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[157] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A LIBERAÇÃO DE TODA ALMA ENCADEADA.",
+  "texto": "A história da saída do povo de Israel liberando-se da escravidão egípcia, nunca aconteceu em nenhuma época. Este relato não é senão uma alegoria da alma humana que abandona a parte animal de seu ser, passando pelo Mar Vermelho, o fígado criador das paixões, até chegar à Terra Prometida, à liberação pela Espiritualidade. 'Eu vi a aflição de meu povo que está no Egito (na ignorância de minhas Leis) e ouvi o pranto causado pelo seus tiranos (enfermidades, erros, fracassos, pobrezas) e desci para libertá-la e levá-la a uma terra onde flui o leite, o mel e todas as coisas boas.' Estas palavras expressam o amor do - EU SOU - para com o homem. Deixemo-nos guiar por ELE para a Terra Prometida, para a liberação."
+};
 
-eusou[158] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[158] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A SAÚDE DA ALMA E DO CORPO.",
+  "texto": "Cada mal-estar, cada dor se corrige e se alivia com esta afirmação. Isto não significa que devemos abandonar totalmente a medicina; devemos usar com moderação certos remédios, até adquirirmos suficiente fé em nossa união com o - EU SOU -. Não é o agente medicinal que dá alívio à dor, senão a Presença do - EU SOU é que dá poder ao agente medicinal."
+};
 
-eusou[159] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[159] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A ENERGIA PERFEITA QUE ATUA AQUI E ALI.",
+  "texto": "Os homens científicos acreditam no poder curativo de certas drogas ou agentes medicinais e que este agente produz alguma ação química natural que corresponde ao elemento que está no corpo. Isto está muito bem, mas, devemos saber que EU SOU DEUS EM AÇÃO EM TODAS AS COISAS, e esta afinidade não é senão a Presença do - EU SOU - que lhes faz pensar e acreditar nisto. Mas, quando uma pessoa que tem autoridade no assunto, diz que este remédio não serve mais, em curto tempo este remédio desaparece para sempre."
+};
 
-eusou[160] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[160] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A ÚNICA PRESENÇA, A ÚNICA VIDA, A ÚNICA SAÚDE.",
+  "texto": "Seguramente, que no princípio, o estudante crê que a saúde vem de fora através de agentes medicinais; mas, quando chega a compreender que médicos e medicina têm somente o objetivo de ajudar o doente a volver à lei natural, e que nenhuma medicina, nem médico, fecham ou cicatrizam uma ferida sem a Presença Divina no homem, então compreenderá que - EU SOU - é a única saúde. E se o estudante duvida desta verdade, que pergunte e procure todos os médicos e medicinas do mundo para ver se podem cicatrizar a ferida em um cadáver."
+};
 
-eusou[161] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[161] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU DEUS EM AÇÃO NO INDIVÍDUO.",
+  "texto": "Esta afirmação traz o aspirante cada vez mais à consciência da completa atividade inteligente do EU SOU; porque quando ele diz - EU SOU - põe em ação dentro de si, sabendo-o ou não, a plena e pura energia do íntimo. A energia se converte em Poder Consciente para uso constante."
+};
 
-eusou[162] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[162] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A INSPIRAÇÃO PERFEITA E PURA.",
+  "texto": "Quando a consciência do homem se eleva, atrai a seu mundo todo o indivíduo que se põe em contato com Ela porque todo o mundo se eleva à atividade interna e põe em movimento a energia divina ao dizer - EU SOU."
+};
 
-eusou[163] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[163] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A LUZ NA MENTE.",
+  "texto": "Devemos visualizar essa Luz e fazer imagem dela em nosso cérebro, coração e corpo."
+};
 
-eusou[164] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[164] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A REVELAÇÃO PERFEITA DE TUDO O QUE A MENTE QUER SABER.",
+  "texto": "Algum dia todo homem tem que chegar a ser consciente de seu poder íntimo, abraçar o grande poder do - EU SOU DEUS - e fazê-lo atuar. No momento devemos buscar com perseverança e conscientemente nossa herança e propriedade."
+};
 
-eusou[165] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[165] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU, AGORA, A LIBERAÇÃO DE TODO ERRO.",
+  "texto": "Já chegamos, enfim, a este ponto. Havendo dado conta de uma escravidão opressora, levantamo-nos para abandonar as trevas da ignorância (Egito) e caminhar para a Terra Prometida, a liberdade no mundo interno do - EU SOU."
+};
 
-eusou[166] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[166] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU DEUS EM MEU TEMPLO-CORPO.",
+  "texto": "O homem, primeiramente, sofre na parte mais grosseira e animal de seu ser, vários acontecimentos no caminho de sua ascensão para superar e para compreender que ele é uno com - EU SOU DEUS - mas, esta realização lhe dá a liberação de todos os sofrimentos porque, por fim, adquiriu a soberania e a iluminação para dizer como Jacob: 'EU SOU está aqui (dentro de nós) e eu não o sabia.'"
+};
 
-eusou[167] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[167] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O PODER INTELIGENTE QUE GOVERNA TODA ATIVIDADE.",
+  "texto": "Sempre temos buscado ajuda e consolo nos demais; porém, tudo tem sido em vão, porque todo gozo e fortaleza emanam de uma fonte que brota do fundo de nosso próprio ser. Quando compreendemos e sentimos esta verdade, então ninguém e coisa alguma afetar-nos-á em qualquer sentido, porque nenhum ser pode privar-nos de nosso gozo, de nosso bem e de nossa liberdade."
+};
 
-eusou[168] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[168] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A FELICIDADE SUPREMA.",
+  "texto": "A poderosa Presença do EU SOU trespassa tudo. A chave simples da felicidade perfeita e seu poder que se mantém por si só, é controlar-se a si mesmo, sentindo que - EU SOU - está em todas as partes controlando cada atividade externa, levando-a para a perfeição. Nossa felicidade procede de nosso sentir que somos um com a - EU SOU - e que somos amor, perdão e poder."
+};
 
 eusou[169] =
 {
@@ -2193,53 +2194,45 @@ EU SOU A PRESENÇA DO FOGO DIVINO ELEVADO AO CENTRO ESPLÊNICO.
 `
 }
 
-eusou[286] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[286] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A PRESENÇA DO FOGO DIVINO ELEVADO AO PLEXO SOLAR.",
+  "texto": "Este plexo é uma gema luminosa que se encontra na região lombar. Quando o fogo do - EU SOU - chega a este centro, desperta a prudência, ilumina as faculdades do homem e seu talento; clareia a mente e dá cordura, e assim o homem poderá ver a forma do pensamento e até ler estes pensamentos."
+};
 
-eusou[287] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[287] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O FOGO DO AMOR NO CENTRO CARDÍACO.",
+  "texto": "Com esta afirmação o fogo divino do amor invade o plexo do coração, lugar do som sem pulsação; é o assento da vida física individual. Nele se colhe o fruto da árvore da vida. Com o desenvolvimento deste centro - EU SOU - manifesta seu poder. Fisicamente estimula o processo da nutrição, a vitalidade e a atividade mental por sua influência no cérebro; tonifica o sistema glandular e ativa as secreções internas. Espiritualmente outorga a sabedoria, e o iniciado chega a perceber e identificar as coisas por suas próprias qualidades. Outorga a concentração, a estabilidade, a perseverança, a paciência, a fé, a confiança, o equilíbrio mental ante a ventura e a desgraça, e impera sobre os elementos do ar."
+};
 
-eusou[288] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[288] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O FOGO E A LUZ NO CENTRO LARÍNGEO.",
+  "texto": "O desenvolvimento deste centro outorga o poder do verbo e sua manifestação no físico. É a porta da liberação. Domina os elementos do éter que abrem a porta do Éden. Influi sobre o líquido raquidiano, estimula a combustão e age no sistema simpático; por ele se chegam a descobrir os mistérios e as ciências ocultas. Dá o entendimento, a esperança e a generosidade. Seu desenvolvimento manifesta as faculdades latentes: o lógico, a resolução, a veracidade no falar, o agir corretamente, a harmonia no viver, o esforço para a superação, o proveito da experiência e o poder de ouvir a voz interna."
+};
 
-eusou[289] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[289] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A LUZ NO CENTRO FRONTAL.",
+  "texto": "Manifesta-se no entrecenho; dá energia, desperta a inteligência, o discernimento e a clarividência. A Luz Inefável nele produz o respeito, a temperança e a abstinência. O ser pensante, que manifesta por ele, desperta ideais de dignidade, grandeza, veneração, sentimentos delicados e outorga o domínio do espírito sobre a matéria."
+};
 
-eusou[290] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[290] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A LUZ EM TEU CENTRO CORONÁRIO.",
+  "texto": "Neste centro se manifesta amplamente - EU SOU DEUS - EM AÇÃO."
+};
 
-eusou[291] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[291] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O DADOR DE VIDA. EU SOU A PRESENÇA NO DESTINO DE CADA SER.",
+  "texto": "O discípulo deve aprender que a prática da adivinhação por meio da Astrologia, Quiromancia, Cartomancia, etc.... é a maior fraude que existe em nossos tempos. Poderão servir em algo para estudar o caráter do homem, mas, nunca, jamais, para adivinhar ou indicar um destino. Com - EU SOU - A PRESENÇA, o discípulo pode ver o passado e o futuro, se o desejar, mas, não com os métodos infantis da Astrologia, Numerologia e outros \"gias\" e \"ismos\". Todas estas ciências foram praticadas antigamente, para o estudo e o melhoramento do caráter e nada mais, porque - EU SOU dentro do homem escapa à compreensão humana e ELE É O CAMINHO, A PORTA E A VERDADE."
+};
 
-eusou[292] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[292] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A ÚNICA VERDADE QUE PREVALECE NO DESTINO.",
+  "texto": "Não existe estrela, nem astro, nem aspecto adverso que possa influir no discípulo que afirma e declara conscientemente: - EU SOU A VERDADE - porque basta esta afirmação para varrer com toda condição externa. (\"Não podeis servir a dois senhores\"); não podemos afirmar EU SOU O QUE O CRIADOR É, e logo crer que existe um aspecto nas estrelas que influi sobre nosso destino. Consultar a um adivinho é tratar de enganar a consciência para dar paz ao coração. O adivinho é um charlatão e como charlatão faz fortuna. O discípulo que afirma: - EU SOU DEUS EM AÇÃO dentro e fora, não pode dividir sua atenção e fixá-la sobre um poder externo. A sugestão e a auto-sugestão negativas são as que paralisam o efeito construtivo da Lei, para pôr em movimento o aspecto negativo. O discípulo deve afastar de si a charlatanaria dos adivinhos, e sentir - EU SOU DEUS EM AÇÃO - que anula toda superstição."
+};
 
-eusou[293] =
-{
-"afirmacao": ``,
-"texto": ``
-}
+eusou[293] = {
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU A VERDADE QUE ELIMINA TODA MENTIRA. EU SOU A LUZ QUE AFUGENTA AS TREVAS.",
+  "texto": "Cada vez que o discípulo deseja fazer calar as calúnias e murmurações, e anular o efeito venenoso dos juízos falsos, deve utilizar esta afirmação que anula as correntes malignas."
+};
 
 eusou[294] =
     {
