@@ -2220,7 +2220,7 @@ eusou[290] = {
 };
 
 eusou[291] = {
-  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O DADOR DE VIDA. EU SOU A PRESENÇA NO DESTINO DE CADA SER.",
+  "afirmacao": "EU SOU O QUE O CRIADOR É. LOGO:<br>EU SOU O DOADOR DE VIDA. EU SOU A PRESENÇA NO DESTINO DE CADA SER.",
   "texto": "O discípulo deve aprender que a prática da adivinhação por meio da Astrologia, Quiromancia, Cartomancia, etc.... é a maior fraude que existe em nossos tempos. Poderão servir em algo para estudar o caráter do homem, mas, nunca, jamais, para adivinhar ou indicar um destino. Com - EU SOU - A PRESENÇA, o discípulo pode ver o passado e o futuro, se o desejar, mas, não com os métodos infantis da Astrologia, Numerologia e outros \"gias\" e \"ismos\". Todas estas ciências foram praticadas antigamente, para o estudo e o melhoramento do caráter e nada mais, porque - EU SOU dentro do homem escapa à compreensão humana e ELE É O CAMINHO, A PORTA E A VERDADE."
 };
 
